@@ -1,2283 +1,1911 @@
-Ciudades,Freq
-Chicago,68
-New York,62
-Houston,57
-Los Angeles,56
-Dallas,42
-Atlanta,40
-Miami,39
-Philadelphia,38
-San Diego,37
-Orlando,35
-Pittsburgh,35
-Charlotte,34
-Boston,32
-Las Vegas,31
-Cleveland,31
-San Antonio,29
-Jacksonville,28
-Nashville,27
-Tampa,25
-Austin,25
-Columbus,23
-Washington,23
-Rochester,23
-Minneapolis,23
-Brooklyn,22
-Phoenix,21
-Denver,20
-Raleigh,20
-Indianapolis,20
-Seattle,19
-Greenville,19
-Lexington,18
-Baltimore,18
-St. Louis,17
-California,17
-San Francisco,17
-Wilmington,17
-Kansas City,16
-Birmingham,16
-Springfield,16
-Cincinnati,16
-Sacramento,16
-Fort Worth,15
-El Paso,15
-Long Beach,15
-Detroit,15
-Madison,15
-Tulsa,15
-Buffalo,15
-Richmond,14
-San Jose,14
-Oklahoma City,14
-Ontario,14
-Charleston,14
-Florida,13
-North Carolina,13
-Columbia,13
-Omaha,13
-Bronx,13
-Fresno,13
-Lancaster,13
-Tucson,13
-Memphis,12
-Ohio,12
-Toronto,12
-Colorado Springs,12
-Portland,11
-Wichita,11
-Milwaukee,11
-Pensacola,10
-Georgia,10
-Aurora,10
-Texas,10
-Virginia Beach,10
-Louisville,10
-Vancouver,10
-Auburn,10
-South Bend,10
-Albuquerque,9
-Fort Lauderdale,9
-Edmonton,9
-Knoxville,9
-Spokane,9
-Saint Louis,9
-Riverside,9
-Savannah,9
-Calgary,9
-Marietta,8
-Virginia,8
-Winnipeg,8
-Salem,8
-Little Rock,8
-Syracuse,8
-Lakeland,8
-Sarasota,8
-Flint,8
-Chesapeake,8
-Arlington,8
-Newark,8
-Albany,8
-Baton Rouge,8
-Broken Arrow,8
-Lafayette,7
-Scottsdale,7
-Greensboro,7
-Toledo,7
-Akron,7
-Canton,7
-Huntington,7
-Long Island,7
-Spring Hill,7
-Salt Lake City,7
-Jackson,7
-Fort Myers,7
-Reading,7
-Topeka,7
-Honolulu,7
-Warren,7
-Dayton,7
-Utica,7
-New Orleans,7
-Lincoln,7
-Ocala,7
-Tacoma,7
-Moore,7
-Westminster,7
-Eugene,6
-Bakersfield,6
-Laurel,6
-Clovis,6
-Shreveport,6
-Green Bay,6
-Fredericksburg,6
-Ny,6
-Elk Grove,6
-Des Moines,6
-Modesto,6
-Kissimmee,6
-Katy,6
-Fort Wayne,6
-Belleville,6
-Middletown,6
-Mount Pleasant,6
-Huntsville,6
-York,6
-Rock Hill,6
-Evansville,6
-Chandler,6
-Michigan,6
-Staten Island,6
-Providence,6
-Augusta,6
-Burlington,6
-Boise,6
-Kenosha,6
-Edison,6
-Concord,6
-Montgomery,5
-Watertown,5
-Odessa,5
-Mckinney,5
-Norfolk,5
-Georgetown,5
-San Tan Valley,5
-Waterloo,5
-Rockford,5
-Harrisburg,5
-Oakdale,5
-Lakewood,5
-Chattanooga,5
-Allentown,5
-Danville,5
-Cambridge,5
-Stockton,5
-Durham,5
-Shawnee,5
-Manhattan,5
-Pasadena,5
-Illinois,5
-Franklin,5
-Lebanon,5
-Nebraska,5
-Tallahassee,5
-Gilbert,5
-Mesa,5
-Cypress,5
-Quincy,5
-Temecula,5
-Jersey City,5
-Appleton,5
-Mattoon,5
-Covington,5
-Fayetteville,5
-Lake Worth,5
-Anaheim,5
-Waukesha,5
-Corpus Christi,5
-Charlottesville,5
-Cary,5
-Kansas,5
-Beaumont,5
-Oakland,5
-Roanoke,5
-Altoona,5
-St Paul,5
-Decatur,4
-Oxnard,4
-West Palm Beach,4
-Irvine,4
-New Rochelle,4
-Hoboken,4
-Cape Coral,4
-Council Bluffs,4
-Owasso,4
-Clearwater,4
-Worcester,4
-Duluth,4
-Slidell,4
-Somerset,4
-Bristol,4
-Independence,4
-Longview,4
-Newport News,4
-Deltona,4
-Campbell,4
-Wayne,4
-Suffolk,4
-Longmont,4
-Dover,4
-Sandy,4
-Asheville,4
-Wylie,4
-Fort Smith,4
-Kingsport,4
-Anderson,4
-Owensboro,4
-Gaithersburg,4
-Greer,4
-Pocatello,4
-Olathe,4
-Massachusetts,4
-Panama City,4
-Saginaw,4
-Saint Petersburg,4
-Hamilton,4
-Indiana,4
-Hagerstown,4
-Saint Charles,4
-Grand Rapids,4
-Melbourne,4
-Ankeny,4
-Salisbury,4
-Round Rock,4
-Erie,4
-Manchester,4
-Greensburg,4
-Easton,4
-Morristown,4
-Maryville,4
-Woodbridge,4
-Fremont,4
-Janesville,4
-Athens,4
-Mobile,4
-Okc,4
-Oregon,4
-New Jersey,4
-Norwood,4
-Boynton Beach,4
-Sanford,4
-Plano,4
-Germantown,4
-Mooresville,4
-Spring,4
-Greenfield,4
-Alexandria,4
-Olympia,3
-Naples,3
-Schaumburg,3
-Winchester,3
-Camp Lejeune,3
-Valley Stream,3
-Newton,3
-Pataskala,3
-Roseville,3
-Frisco,3
-Riverview,3
-Berlin,3
-Oklahoma,3
-Minnesota,3
-New Bedford,3
-New Castle,3
-Findlay,3
-Everett,3
-Biloxi,3
-Williamsburg,3
-Westchester,3
-San Juan,3
-Grand Junction,3
-Centerville,3
-Palmyra,3
-Yakima,3
-Bradenton,3
-Bucks County,3
-Shelbyville,3
-Meridian,3
-Brandon,3
-Windsor,3
-Oxford,3
-Statesboro,3
-Winter Haven,3
-Reno,3
-Bolingbrook,3
-Gulfport,3
-Conway,3
-Queens,3
-El Cajon,3
-Santa Ana,3
-Buena Park,3
-Waynesboro,3
-Federal Way,3
-Mechanicsville,3
-Beaufort,3
-Macon,3
-Port Saint Lucie,3
-Apopka,3
-Palm Springs,3
-Loganville,3
-Holland,3
-Mountain Home,3
-West Chester,3
-Renton,3
-Houma,3
-Chagrin Falls,3
-Madisonville,3
-Oshkosh,3
-Portage,3
-Marion,3
-Kentucky,3
-Liberty,3
-Muncie,3
-Gretna,3
-Palm Bay,3
-Silver Spring,3
-Burbank,3
-Halifax,3
-Valrico,3
-Vineland,3
-Ridley Park,3
-San Bernardino,3
-Martinsburg,3
-Buckeye,3
-Pflugerville,3
-Killeen,3
-Collierville,3
-Brunswick,3
-Battle Creek,3
-Herndon,3
-Lawton,3
-Clayton,3
-Alabama,3
-Castle Rock,3
-Parma,3
-Plymouth,3
-Spring Valley,3
-Newfoundland And Labrador,3
-Spokane Valley,3
-Spartanburg,3
-Bedford,3
-Salinas,3
-Lagrange,3
-Hampton,3
-Kennesaw,3
-Redlands,3
-Philly,3
-Carol Stream,3
-Victorville,3
-Vallejo,3
-Gainesville,3
-Boone,3
-New Haven,3
-Gastonia,3
-Waterford,3
-Sioux City,3
-Santa Cruz,3
-Batavia,3
-Grants Pass,3
-Elyria,3
-Lansing,3
-Yuba City,3
-Calhoun,3
-Mesquite,3
-Fairfield,3
-Monterey,3
-Valparaiso,3
-Stillwater,3
-Crowley,3
-Monroe,3
-Scott City,3
-Toms River,3
-Garden Grove,3
-Bellevue,3
-Murfreesboro,3
-St Louis,3
-Kalamazoo,3
-Neenah,3
-Cedar Falls,3
-Hudson,3
-Lake Havasu City,3
-Stanley,3
-Tustin,3
-Bartlesville,3
-Tuscaloosa,3
-Wilson,3
-Lake Charles,3
-Norwalk,3
-Elizabeth,3
-Ann Arbor,3
-Huntington Park,3
-Beaverton,3
-Westland,3
-Bel Air,3
-Huntington Beach,3
-Moncks Corner,3
-Jonesboro,3
-Loveland,3
-Twentynine Palms,3
-Grand Forks,3
-Rockville,2
-Hermitage,2
-Pasco,2
-Kingston,2
-Glenn Dale,2
-Glendale,2
-La Puente,2
-Jacksonville Beach,2
-Jamestown,2
-Union City,2
-Bristow,2
-Yonkers,2
-Myrtle Beach,2
-Chino,2
-Shelton,2
-Thibodaux,2
-Fort Collins,2
-Pawtucket,2
-Warminster,2
-Irving,2
-Compton,2
-Tonawanda,2
-Mcallen,2
-Hollywood,2
-Cuyahoga Falls,2
-New Lenox,2
-Mount Dora,2
-Lockport,2
-Westville,2
-Fair Oaks,2
-Junction,2
-Weymouth,2
-Qubec,2
-Sturgis,2
-Hyattsville,2
-Bullhead City,2
-Malden,2
-Conyers,2
-Marysville,2
-New Windsor,2
-North Hollywood,2
-Winnabow,2
-Pharr,2
-Norman,2
-Bismarck,2
-New Braunfels,2
-Niles,2
-Oak Hill,2
-Yorba Linda,2
-Puyallup,2
-Whitsett,2
-Edgewood,2
-Demotte,2
-Lee's Summit,2
-Amarillo,2
-Bc,2
-Buford,2
-Chambersburg,2
-Towson,2
-North Ridgeville,2
-Ellijay,2
-North Las Vegas,2
-Plainfield,2
-Takoma Park,2
-Berkeley,2
-Titusville,2
-Essex,2
-Clifton,2
-Bettendorf,2
-East Dublin,2
-Brownsville,2
-Peru,2
-Seekonk,2
-Central,2
-Hesperia,2
-Joliet,2
-Hutchinson,2
-Latrobe,2
-Sumter,2
-Shirley,2
-Hillsdale,2
-Litchfield,2
-Wilton,2
-Rio Rancho,2
-Lubbock,2
-Midland,2
-Arcata,2
-Winston Salem,2
-Annapolis,2
-East Chicago,2
-Buena Vista,2
-Bloomington,2
-Elsmere,2
-Jber,2
-Evans,2
-Santa Rosa,2
-Astoria,2
-Gadsden,2
-Metairie,2
-Fort Mill,2
-Luzerne,2
-High Point,2
-Abilene,2
-Snohomish,2
-Morehead,2
-Fairport,2
-Chula Vista,2
-Bryan,2
-Great Falls,2
-Moline,2
-Gary,2
-Las Cruces,2
-Reidsville,2
-South Carolina,2
-Marianna,2
-Great Lakes,2
-Lake Forest,2
-Flowery Branch,2
-Tryon,2
-Bloomfield,2
-San Angelo,2
-Boca Raton,2
-Troy,2
-Delafield,2
-Ladson,2
-Port Orchard,2
-Wilkes Barre,2
-Medford,2
-Kingman,2
-Humble,2
-Orange,2
-Delran,2
-Orange Park,2
-Gresham,2
-Malone,2
-Montreal,2
-White City,2
-Lockhart,2
-Gulf Coast,2
-Bowling Green,2
-Dickinson,2
-Lewisville,2
-Warner Robins,2
-St. Paul,2
-Kalispell,2
-Cheektowaga,2
-Fort Meade,2
-West Allis,2
-Greenwood,2
-Upstate,2
-Gaylord,2
-Kings Mountain,2
-Edinburg,2
-Lynchburg,2
-Antioch,2
-Bronston,2
-Moreno Valley,2
-Port Richey,2
-Princeton,2
-Sebastian,2
-Crockett,2
-Lufkin,2
-Peoria,2
-Paducah,2
-Porter,2
-Framingham,2
-Port Orange,2
-Spencer,2
-St Petersburg,2
-Hamden,2
-Deland,2
-Fostoria,2
-Lowell,2
-Henderson,2
-North Huntingdon,2
-Blaine,2
-Hamburg,2
-Nampa,2
-Sellersburg,2
-Victoria,2
-Ashland,2
-Colorado,2
-Mukwonago,2
-Port St Lucie,2
-Mira Loma,2
-Clarkston,2
-Johns Creek,2
-Aberdeen,2
-Tempe,2
-Seneca,2
-Southbury,2
-Whitesboro,2
-Sicklerville,2
-Fulton,2
-Rocky Point,2
-Chesterfield,2
-Alameda,2
-Pennsylvania,2
-Idaho,2
-Levittown,2
-Wyandotte,2
-Palm Coast,2
-Rancho Cordova,2
-Cumberland,2
-Pennington,2
-Mchenry,2
-Massapequa Park,2
-Walnut Creek,2
-Schenectady,2
-Northfield,2
-Glen Burnie,2
-La Pine,2
-Orange County,2
-Marshalltown,2
-Fenton,2
-Lacey,2
-Marmaduke,2
-Plaquemine,2
-Temple,2
-Meadville,2
-O Fallon,2
-St. Petersburg,2
-Piqua,2
-Avondale,2
-Sidney,2
-Littleton,2
-Wyoming,2
-Hillsborough,2
-Apollo Beach,2
-Sharon,2
-Fort Walton Beach,2
-Pembroke Pines,2
-Laredo,2
-Mount Clemens,2
-Frederick,2
-Abingdon,2
-Ilion,2
-Rocklin,2
-Eagle Mountain,2
-Tennessee,2
-Marshfield,2
-Holt,2
-Tualatin,2
-Eagan,2
-Fort Pierce,2
-Howell,2
-London,2
-Lawson,2
-Winston-salem,2
-Traverse City,2
-Barberton,2
-Fullerton,2
-Sterling Heights,2
-Inwood,2
-Gonzales,2
-Candor,2
-Fuquay Varina,2
-Lombard,2
-Tyler,2
-Lorain,2
-Scappoose,2
-Severn,2
-Chicopee,2
-Willoughby,2
-Louisiana,2
-Opelousas,2
-Delphos,2
-Elmira,2
-Great Mills,2
-Hillsboro,2
-Greeley,2
-Glenview,2
-North Providence,2
-Tampa Bay,2
-Westport,2
-Sulphur,2
-Colchester,2
-Portsmouth,2
-Ottawa,2
-Medina,2
-Hensley,2
-New Milford,2
-Rogersville,2
-Winter Garden,2
-Boiling Springs,2
-Atwater,2
-Whitehall,2
-Walla Walla,2
-Hemet,2
-Weslaco,2
-Fairfax,2
-Royersford,2
-Ennis,2
-Hendersonville,2
-Naperville,2
-La Porte,2
-Hephzibah,2
-Mechanicsburg,2
-New Wilmington,2
-Justin,2
-Aston,2
-Saint Paul,2
-Middle River,2
-Baldwyn,2
-Utah,2
-O'fallon,2
-Fleetwood,2
-Angola,2
-Brookhaven,2
-Beverly Hills,2
-Tavares,2
-Flushing,2
-Weatherford,2
-State College,2
-Douglasville,2
-The Desert,2
-Pineville,2
-Murrieta,2
-Kernersville,2
-Westfield,2
-Canfield,2
-New Britain,2
-Hadley,2
-Columbus Grove,2
-Quakertown,2
-Hanover,2
-Terre Haute,2
-Missouri,2
-Delavan,2
-Nova Scotia,2
-Carmichael,2
-North Tonawanda,2
-Gurnee,2
-Napa,2
-Choctaw,2
-Chevy Chase,2
-Holly,2
-Haymarket,2
-Asheboro,2
-Sylmar,2
-Aiken,2
-Binghamton,2
-Jasper,2
-Dublin,2
-Riverbank,2
-Redondo Beach,2
-West Des Moines,2
-Cedarburg,2
-Groton,2
-Imperial,2
-San Pedro,2
-Bay Area,2
-Lexington Park,2
-Bossier City,2
-Arizona,2
-Hernando,2
-Etters,2
-San Mateo,2
-Winfield,2
-Draper,2
-Whittier,2
-Summerville,2
-Morgantown,2
-Copperas Cove,2
-Phenix City,2
-St. George,2
-Hartford,2
-Bardstown,2
-Mayfield,2
-Corona,2
-Oceanside,2
-Walker,2
-Canyon,2
-Tecumseh,2
-Senatobia,2
-Wilbraham,2
-Edmond,2
-Hobart,2
-Brenham,2
-Hammonton,2
-Newburyport,2
-Acton,2
-Centreville,2
-Surrey,1
-Dothan,1
-Twin Lakes,1
-Murray,1
-Lidderdale,1
-Danvers,1
-Rice Lake,1
-Fort Leavenworth,1
-Irwin,1
-Buffalo Junction,1
-Downingtown,1
-La Grange Park,1
-Winterville,1
-Deerfield,1
-Rusk,1
-Nicholasville,1
-Cleveland Hts,1
-Appomattox,1
-Lima,1
-Hallettsville,1
-Saint Johns,1
-Pembroke,1
-Avon Lake,1
-Pocahontas,1
-Novi,1
-Orange City,1
-Mondovi,1
-San Gabriel,1
-Long Branch,1
-La Crosse,1
-Clinton,1
-Douglaston,1
-Roxana,1
-Arleta,1
-Usa,1
-Foley,1
-Indian Orchard,1
-Rural Hall,1
-Falls City,1
-Chesaning,1
-Lidgerwood,1
-Corydon,1
-Jeffersonville,1
-Laingsburg,1
-De Pere,1
-Poughkeepsie,1
-West Hollywood,1
-Eclectic,1
-Greenville County,1
-Buchanan,1
-Jenkintown,1
-East Meadow,1
-Camas,1
-Batesville,1
-Palmerton,1
-Ludington,1
-Onalaska,1
-Centralia,1
-Port Huron,1
-Summertown,1
-Hodges,1
-Cumming,1
-Conroe,1
-Sun City Center,1
-Endicott,1
-Sarasota County,1
-Talbott,1
-Kashin,1
-Mashpee,1
-Plainview,1
-Donna,1
-Livermore,1
-Leon,1
-Forney,1
-Spring Grove,1
-North Reading,1
-Sour Lake,1
-Christchurch,1
-Ellenville,1
-Homestead,1
-Madeira Beach,1
-East Machias,1
-Rutland,1
-The Colony,1
-Grosse Pointe,1
-Eunice,1
-Pingree Grove,1
-Brewster,1
-Lincolnshire,1
-Mount Vernon,1
-Killen,1
-Turlock,1
-Wheaton,1
-Winter Park,1
-Watts,1
-Upper Marlboro,1
-Redding,1
-Fort Pierre,1
-Cedar Grove,1
-Melrose Park,1
-Cameron,1
-Patton,1
-Pottstown,1
-Waterville,1
-Gladewater,1
-Colton,1
-Powhatan Point,1
-Collins,1
-Eldridge,1
-Parkton,1
-Decorah,1
-Natchitoches,1
-Green,1
-Sandown,1
-Howard Beach,1
-Ossining,1
-Roscoe,1
-Waldorf,1
-Webster,1
-Far Rockaway,1
-Stoneham,1
-Plainville,1
-Dunbar,1
-Chester Springs,1
-Camp Hill,1
-Yorkville,1
-Bradley,1
-Cartersville,1
-Grand Blanc,1
-Enon Valley,1
-Fillmore,1
-Grand Prairie,1
-Nitro,1
-Elgin,1
-Highlands Ranch,1
-Latham,1
-Manitoba,1
-Dalton,1
-Apollo,1
-Copperhill,1
-Gladstone,1
-Fredonia,1
-Rock City,1
-Paradise,1
-Dracut,1
-Saddle Brook,1
-American Canyon,1
-Alexanderia,1
-Nogales,1
-Selkirk,1
-Aledo,1
-Arimo,1
-Brookline,1
-South Richmond Hill,1
-Cleburne,1
-Downtown Harrisburg,1
-Paramus,1
-Brazil,1
-Granville,1
-Bobcaygeon,1
-Saint Peters,1
-Hollsopple,1
-Bellflower,1
-Steelville,1
-Dundalk,1
-Ellenton,1
-Cork,1
-Crownsville,1
-El Dorado,1
-Clinton Township,1
-West Virgina,1
-Euharlee,1
-Mpls,1
-Rockville Centre,1
-Felts Mills,1
-Valley Springs,1
-Granger,1
-Kearney,1
-Norwell,1
-Pullman,1
-Hixson,1
-West Bend,1
-Pinson,1
-Shalimar,1
-Walnut,1
-Millsboro,1
-Nb,1
-B'ham,1
-Duffield,1
-Haines City,1
-Iowa,1
-Plantation,1
-Bells,1
-Alton,1
-Wichita Falls,1
-Woolwich,1
-New Canaan,1
-St Charles,1
-Hartville,1
-Harris,1
-Alaska,1
-Bothell,1
-Lilburn,1
-South San Francisco,1
-Elkmont,1
-Marbury,1
-Sanleon,1
-Beaver Falls,1
-Clyde,1
-Exeter,1
-La Verne,1
-Darby,1
-Advance,1
-Cadillac,1
-Hubert,1
-Tarzana,1
-Ferrelview,1
-Barre,1
-Sun Valley,1
-Chatham-kent,1
-Tinton Falls,1
-Kendallville,1
-Queen Anne,1
-Forrest,1
-Alum Bank,1
-Cedartown,1
-Winlock,1
-Pennsboro,1
-Eldon,1
-Wooster,1
-Mill Hall,1
-Sunset Beach,1
-Strongsville,1
-Jefferson,1
-Snyder,1
-Alta Loma,1
-Walkersville,1
-Brockport,1
-Boyertown,1
-Jensen Beach,1
-Tigard,1
-Shelley,1
-Sudbury,1
-Sioux Falls,1
-Battle Ground,1
-Loris,1
-Encinitas,1
-Rapid City,1
-Pleasant Hall,1
-Downers Grove,1
-Weirton,1
-Del Rio,1
-Browns Mills,1
-Biddeford,1
-Mt Pleasant,1
-San Manuel,1
-Palm Beach,1
-Markham,1
-Denison,1
-Painted Post,1
-Port Colborne,1
-Fort Leonard Wood,1
-Glenmoore,1
-El Centro,1
-Laveen,1
-Paoli,1
-Bountiful,1
-Floresville,1
-Oak Creek,1
-Swanton,1
-Campobello,1
-Farmington,1
-Davison,1
-South Gate,1
-Perry,1
-Northville,1
-Crandon,1
-Conshohocken,1
-Kilgore,1
-Bremerton,1
-Muscatine,1
-Flagstaff,1
-Hewitt,1
-Calimesa,1
-Santaquin,1
-Universal City,1
-Lithonia,1
-Montclair,1
-Morris,1
-Maybee,1
-Groveland,1
-Fort Knox,1
-Oswego,1
-Pecos,1
-Logan,1
-Cinnaminson,1
-Rohnert Park,1
-Warwick,1
-Shadyside,1
-Indianapollis,1
-Pinehurst,1
-La Mesa,1
-Havre De Grace,1
-Elmhurst,1
-Midland County,1
-Tigertown,1
-Proctorville,1
-Wayland,1
-Pompano Beach,1
-Englewood,1
-Sycamore,1
-Trussville,1
-Tuskegee,1
-La Salle,1
-Lawrenceburg,1
-Rocky Hill,1
-Foster City,1
-Lake Walesl,1
-West Salem,1
-Bethel Park,1
-Visalia,1
-Sonora,1
-Grove City,1
-La Vergne,1
-Port Tobacco,1
-Barboursville,1
-Makaha,1
-Hodgenville,1
-Stoney Stanton,1
-College Station,1
-Sanfrancisco,1
-Raymond,1
-Atoka,1
-Huntington Station,1
-Westerville,1
-North Fond Du Lac,1
-Port Angeles,1
-West Mifflin,1
-Miami Beach,1
-Slippery Rock,1
-Rolla,1
-Weston,1
-Clanton,1
-Acworth,1
-Ecorse,1
-Clare,1
-Perth Amboy,1
-Cookeville,1
-Ff,1
-Kenmore,1
-Port St. Lucie,1
-Fall River,1
-Shenandoah,1
-Martin,1
-New Boston,1
-Enid,1
-Clarksville,1
-Palatka,1
-Beaver Dams,1
-Barnhart,1
-Fajardo,1
-Tega Cay,1
-Claremont,1
-Star Prairie,1
-Eden,1
-Parkville,1
-Ft Lauderdale,1
-Laguna Beach,1
-Carrboro,1
-Winter Springs,1
-Lucerne Valley,1
-Bonnie,1
-Goshen,1
-Clinton Twp,1
-Holliday,1
-Punta Gorda,1
-Heath,1
-Zimmerman,1
-Millersville,1
-Seminary,1
-Tewksbury,1
-Gloucester,1
-Thomaston,1
-Lake City,1
-Ewing Township,1
-Chicago Ridge,1
-Bridgman,1
-Broad Brook,1
-Berkeley Ca,1
-Nevada,1
-Quebec,1
-Andrews,1
-Joplin,1
-N Syr,1
-Bessemer,1
-Ambler,1
-Norwich,1
-South Holland,1
-Wb,1
-Reedley,1
-North Lawrence,1
-China Lake,1
-Havertown,1
-Mountain View,1
-Sebring,1
-Glastonbury,1
-New Mexico,1
-Fort Bragg,1
-Mansfield,1
-Trenton,1
-Cobb,1
-Harrison,1
-Bangor,1
-Brookings,1
-Arvada,1
-Stafford,1
-Bruceton Mills,1
-Vergennes,1
-Inyokern,1
-Aguada,1
-Ridgeville,1
-North Lauderdale,1
-New Bern,1
-Papillion,1
-Eaton Park,1
-Valdese,1
-Nunica,1
-Inkom,1
-Sylacauga,1
-Kodak,1
-Mineral,1
-East Berlin,1
-Pomona,1
-Henagar,1
-Bigfork,1
-Ventura,1
-Coldbrook,1
-Fairhaven,1
-Prior Lake,1
-Perris,1
-Duenweg,1
-Ingalls,1
-Cohutta,1
-Somis,1
-Preston,1
-Hillsborough Township,1
-North Platte,1
-Trappe,1
-Henryetta,1
-Port Crane,1
-Flemington,1
-Butte,1
-Seaford,1
-Sterling,1
-Hattiesburg,1
-Miami Springs,1
-Romulus,1
-Elkin,1
-Guelph,1
-Garden City,1
-Breese,1
-Xenia,1
-Alpena,1
-Tazewell,1
-Vaughan,1
-Malta,1
-Stuart,1
-Surprise,1
-Simcoe,1
-Collinsville,1
-Wurtsboro,1
-Villa Rica,1
-Delaware County,1
-Wimberley,1
-Oak Park,1
-Murphysboro,1
-Bloomingburg,1
-Warrenville,1
-Duncan,1
-Mt Airy,1
-Teaneck,1
-Livingston,1
-Baden,1
-Hebron,1
-Overland Park,1
-Port Washington,1
-Seguin,1
-Revere,1
-Attica,1
-Novelty,1
-Solsberry,1
-Greene,1
-Bailey,1
-Houstom,1
-Altamonte Springs,1
-Glassport,1
-New Port Richey,1
-Winslow,1
-Peterstown,1
-Dodge City,1
-Cassville,1
-Daytona Beach,1
-Pen Argyl,1
-Loxahatchee,1
-Moses Lake,1
-Bozeman,1
-Shasta Lake,1
-Festus,1
-Richland Hills,1
-Wilkesboro,1
-Taylorsville,1
-Phx,1
-Hoschton,1
-Eustis,1
-Beverly,1
-Reisterstown,1
-Mcdonald,1
-Lenoir City,1
-Agua Dulce,1
-Benton,1
-Sylvester,1
-Port Monmouth,1
-Scottsboro,1
-Hazlehurst,1
-Matthews,1
-Simi Valley,1
-Kitchener,1
-Crown Point,1
-Shipman,1
-Okeene,1
-Englishtown,1
-Carteret,1
-Downey,1
-Chelan,1
-Costa Mesa,1
-Orchard Park,1
-Colville,1
-Monee,1
-Hotchkiss,1
-Lakewood Township,1
-Severna Park,1
-Raeford,1
-Belfast,1
-Reddick,1
-Arlington Heights,1
-Chillicothe,1
-Santiago,1
-Daleville,1
-Bellaire,1
-Fleming Island,1
-Vienna,1
-Hazel Crest,1
-Ingleside,1
-Saint John,1
-Wisconsin,1
-Saint Clair Shores,1
-North Augusta,1
-Tidewater,1
-Interlachen,1
-White Hall,1
-Freedom,1
-Mission,1
-Ridgecrest,1
-Belvidere,1
-Napa County,1
-Halls,1
-Farmingdale,1
-Dubuque,1
-Mcdonough,1
-Austell,1
-Hayward,1
-Brockville,1
-St. Charles,1
-Goleta,1
-Largo,1
-La,1
-Hiram,1
-Brattleboro,1
-Baxter,1
-Malibu,1
-Olney,1
-High Ridge,1
-Mauldin,1
-Madera,1
-East Haven,1
-Saint Bernard,1
-Porterville,1
-Fort Dix,1
-Russellville,1
-Encino,1
-Belle Vernon,1
-Stl,1
-Seminole,1
-Rexford,1
-Reynolds Station,1
-Dillon,1
-Fairview Park,1
-Daly City,1
-Carlsbad,1
-Garnet Valley,1
-Hudson Falls,1
-Folsom,1
-Grand Rapids - Itasca County Airport Gpz,1
-Newington,1
-Windermere,1
-Cheboygan,1
-Arnold,1
-L A,1
-Tooele,1
-Holloway,1
-Olean,1
-Eastvale,1
-North Port,1
-Pleasantville,1
-Merced,1
-South Lyon,1
-China Grove,1
-Natural Bridge,1
-Madawaska,1
-Wellington,1
-North Miami Beach,1
-Central Islio,1
-Missouri City,1
-Holiday,1
-Pompano,1
-Hilliard,1
-St Cloud,1
-Cerritos,1
-Casselberry,1
-Rancho Santa Margarita,1
-Milledgeville,1
-Braintree,1
-Bartlett,1
-Solana Beach,1
-Derby,1
-Hannibal,1
-Euless,1
-Dunkirk,1
-Blackfoot,1
-Aline,1
-Buffolo Grove,1
-Farmington Hills,1
-Port Allen,1
-Pageland,1
-Geneva,1
-Boaz,1
-Brighton,1
-Ormond Beach,1
-Marathon Shores,1
-Chimes,1
-Blue Springs,1
-Bryant,1
-Reserve,1
-Tucson Estates,1
-Saltsburg,1
-Pearl,1
-Saint Augustine,1
-Six Mile,1
-Shep,1
-Westlake,1
-Tuftonboro,1
-Fergus Falls,1
-Ravenna,1
-Springbrook,1
-Brandenburg,1
-Alabaster,1
-Mountain House Parkway,1
-Herrin,1
-Au Sable Forks,1
-Castaic,1
-Sedalia,1
-Bauxite,1
-Urbandale,1
-Prescott,1
-Lassen County,1
-Sandpoint,1
-Tallmadge,1
-Johnson City,1
-Rio Linda,1
-Media,1
-Topsham,1
-Lenexa,1
-Rison,1
-Elizabethtown,1
-Bethel,1
-Blissfield,1
-East Pittsburgh,1
-Uniontown,1
-Bell Gardens,1
-Buffalo Grove,1
-Bastrop,1
-Westerly,1
-West Point,1
-West Milton,1
-Oc,1
-Ferryville,1
-North Aurora,1
-White Pine,1
-Kimper,1
-Waltham,1
-Citrus Heights,1
-Ellenburg Depot,1
-Slatington,1
-Caribou,1
-The Beast,1
-Orient,1
-Bemidji,1
-Faribault,1
-Crossett,1
-Bala Cynwyd,1
-South Houston,1
-Harvard,1
-St James City,1
-Brantford,1
-Kingwood,1
-Tallee,1
-Kinder,1
-Peculiar,1
-Weehawken,1
-Weeki Wachee,1
-Chapin,1
-Chino Hills,1
-Rochelle,1
-Little Ferry,1
-Springhill,1
-Doerun,1
-Billings,1
-League City,1
-Kent,1
-Vero Beach,1
-Sf,1
-Roswell,1
-Cathedral City,1
-Dearborn Heights,1
-Lake County,1
-Verdunville,1
-Marcy,1
-Billerica,1
-Exton,1
-Rosiclare,1
-Hueytown,1
-Waxahachie,1
-Valliant,1
-Pittsburg,1
-Fort Payne,1
-Dripping Springs,1
-Queen Creek,1
-Grafton,1
-Richland City,1
-Nashua,1
-Fort Benning,1
-Wasilla,1
-Beacon,1
-North Bend,1
-Red House,1
-Sedona,1
-Lake Milton,1
-Ferndale,1
-North Highlands,1
-Penfiled,1
-Fruitland,1
-Roosevelt,1
-Griffin,1
-Saco,1
-Rowland Heights,1
-Dinuba,1
-Knightdale,1
-Marble Hill,1
-Struthers,1
-Emeryville,1
-Murrells Inlet,1
-Tarboro,1
-Safford,1
-Summit,1
-Selbyville,1
-Eddy,1
-Reynolds,1
-Rockingham,1
-Halifax Regional Municipality,1
-Sabin,1
-Fort Polk South,1
-Alliance,1
-Bucyrus,1
-Gaffney,1
-Smethport,1
-Oak Ridge,1
-Indio,1
-Dumont,1
-Warrenton,1
-Stanwood,1
-Newcastle,1
-Richmond Virginia,1
-Arab,1
-Horn Lake,1
-Woodford Halse,1
-Ridgewood,1
-Point Comfort,1
-Summerfield,1
-Sorrento,1
-Pinellas Park,1
-Joppa,1
-Mooretown,1
-Canby,1
-Mcleansboro,1
-Chetek,1
-Southworth,1
-Rancho Cucamonga,1
-Box Elder,1
-Sierra Vista,1
-Parma Heights,1
-Cedar Rapids,1
-Newburgh,1
-Indian Trail,1
-Sale Creek,1
-Century,1
-Breaux Bridge,1
-Elkhart,1
-Broomall,1
-Marcus Hook,1
-Depoe Bay,1
-Caro,1
-Pickering,1
-Vicksburg,1
-West Columbia,1
-Land O Lakes,1
-Azusa,1
-Red Oak,1
-Perryopolis,1
-Noble,1
-Mishawaka,1
-Wantagh,1
-Youngsville,1
-Ridge Manor,1
-Branford,1
-Millinocket,1
-Jayess,1
-Randleman,1
-Van Nuys,1
-Canal Winchester,1
-Macedonia,1
-Shorewood,1
-Elma,1
-San Pablo,1
-Pickens,1
-Pittsford,1
-Ramsey,1
-Kensington,1
-Boonville,1
-Caldwell,1
-Marlton,1
-Phillips Ranch,1
-Kingstree,1
-Wallington,1
-Vassalboro,1
-Gray,1
-Bonita Beach,1
-Cullman,1
-Petoskey,1
-Glen Allen,1
-Mcminnville,1
-Storrs Mansfield,1
-Great Bend,1
-Jeromesville,1
-Rainsville,1
-Maspeth,1
-Bradford,1
-Qulin,1
-Lake Mary,1
-Ewa Beach,1
-Casper,1
-White Plains,1
-Spenard,1
-Dana Point,1
-Saint George,1
-Iowa City,1
-Bos,1
-Grand Island,1
-Belton,1
-Amsterdam,1
-Tarpon Springs,1
-Waterbury,1
-North Branch,1
-Monroe County,1
-Bend,1
-Doylestown,1
-Stamford,1
-Orem,1
-Huyton With Roby,1
-Verona,1
-Lawrenceville,1
-Sherman Oaks,1
-Wahoo,1
-Fairhope,1
-Lititz,1
-Richardson,1
-Idabel,1
-Lafayette Parish,1
-Murrysville,1
-Bloomingdale,1
-Somerville,1
-Crossville,1
-Whitefield,1
-Mount Wolf,1
-Souderton,1
-Gig Harbor,1
-Sistersville,1
-Johnston,1
-Olive Branch,1
-12,1
-Springville,1
-Menifee,1
-Munhall,1
-Deatsville,1
-Gardena,1
-Hopkinsville,1
-Santa Fe,1
-Brackettville,1
-San Jacinto,1
-Holbrook,1
-Tompkinsville,1
-Mason City,1
-Clemson,1
-Greenwich,1
-Danielsville,1
-Port Edwards,1
-Manassas,1
-Metuchen,1
-Erin,1
-Merrillville,1
-Clarksburg,1
-Schenevus,1
-Burleson,1
-Westdundee,1
-Tilton,1
-Cape Girardeau,1
-Billericay Cm12 0sp,1
-Burien,1
-Ellington,1
-Red Wing,1
-Olmito,1
-Williams,1
-Hypoluxo,1
-Albion,1
-Stoughton,1
-Goodlettsville,1
-Ypsilanti,1
-Mandeville,1
-Maui,1
-Nuevo,1
-Baldwin City,1
-Vernon,1
-West Saint Paul,1
-Iron Station,1
-Pacoima,1
-Warsaw,1
-Carthage,1
-Nantucket,1
-Yulee,1
-Winnsboro,1
-Hammondsport,1
-Canaan,1
-Dundee,1
-Gates,1
-Palm Harbor,1
-Pontotoc,1
-Lehi,1
-Runnemede,1
-Effingham,1
-New Berlin,1
-King Of Prussia,1
-Rumford,1
-Smiths Station,1
-Easely,1
-Monticello,1
-Boyne City,1
-Stopover,1
-Cayce,1
-Mill Creek,1
-Satsuma,1
-V As Ndergrift,1
-Keller,1
-Plains,1
-Moneta,1
-Cataula,1
-Ludowici,1
-Idaho Falls,1
-Camby,1
-Mcville,1
-Elkhorn,1
-Alpine,1
-Niagara Falls,1
-Molino,1
-Beckley,1
-Lusby,1
-New Roads,1
-Hoover,1
-Beavercreek,1
-Kentwood,1
-Rising Sun,1
-Norcross,1
-North Attleborough,1
-Springdale,1
-Brimingham,1
-Hughesville,1
-Stearns,1
-Streetsboro,1
-New York City,1
-Deptford,1
-New London,1
-Radcliff,1
-Wake Forest,1
-Texarkana,1
-Christiansburg,1
-East Stroudsburg,1
-Robbinsville,1
-Carlisle,1
-Burkburnett,1
-Shelby Charter Township,1
-Fairview,1
-Mississippi,1
-Cottage Grove,1
-Bostob,1
-Sherwood,1
-Raymore,1
-Garland,1
-Herriman,1
-Mill Run,1
-Ottumwa,1
-Wellman,1
-Fitchburg,1
-Harlingen,1
-Mount Blanchard,1
-St. Clair Shores,1
-Covina,1
-Crawfordville,1
-Rogers,1
-Naugatuck,1
-Sandusky,1
-Rocky Mount,1
-West Lawn,1
-Ashburn,1
-Pottsboro,1
-Berwyn,1
-Clawson,1
-Woolwine,1
-Wheeling,1
-Pinetop,1
-Catonsville,1
-Wytheville,1
-Dixon,1
-Du Bois,1
-Alfred Station,1
-British Columbia,1
-Falmouth,1
-Brick,1
-Brigantine,1
-Sparta,1
-Dunedin,1
-Johnson Creek,1
-Bay City,1
-Dillsburg,1
-Burton,1
-Plainsboro,1
-Mount Olive,1
-Berea,1
-Sautee Nacoochee,1
-Maumee,1
-Ciudad Juarez,1
-Thomasville,1
-Rescue,1
-Vacaville,1
-Ashkum,1
-Bokeelia,1
-Arkansas City,1
-Oakland Park,1
-Sanger,1
-Sherman,1
-Coldwater,1
-Mt Morris,1
-Hardinsburg,1
-Taft,1
-Marengo,1
-Gillette,1
-Cave Springs,1
-Valencia,1
-Florissant,1
-Chelsea,1
-Denton,1
-Carstairs,1
-Snow Hill,1
-Brentwood,1
-Bentonville,1
-West Springfield,1
-Slinger,1
-Stratton,1
-Tom Bean,1
-Dresden,1
-Woodbridge Township,1
-St.louis,1
-Roebling,1
-Linthicum Heights,1
-Britton,1
-Norco,1
-Chalmette,1
-Montevallo,1
-Port Charlotte,1
-Milpitas,1
-Millbury,1
-Berkshire County,1
-Hilltown,1
-Mohnton,1
-Lakeville,1
-St. Augustine,1
-New Carrollton,1
-Pascagoula,1
-Holyoke,1
-Petersburg,1
-Powhatan,1
-Emerson,1
-Shippensburg,1
-West Sacramento,1
-Plattsburgh,1
-Palm Beach Gardens,1
-Yates Center,1
-Oconto Falls,1
-Rossville,1
-Durango,1
-Junction City,1
-Colo,1
-Cheyenne,1
-Canyon Lake,1
-Stratford,1
-Thousand Oaks,1
-Ball Ground,1
-Sesser,1
-Grayslake,1
-Brockton,1
-Central Point,1
-Pittston,1
-Lorton,1
-Maysville,1
-Maryland Heights,1
-El Segundo,1
-Channahon,1
-Harrisonville,1
-Port Chester,1
-Okmulgee,1
-Laughlin,1
-Colusa,1
-Storrs,1
-Sunnyvale,1
-Montana,1
-Ephrata,1
-Matawan,1
-Bayville,1
-Raymondville,1
-Munster,1
-Mukilteo,1
-Brigham City,1
-Searsboro,1
-Foxworth,1
-Folkston,1
-Kamloops,1
-Cabot,1
-Orono,1
-Layton,1
-Des Plaines,1
-Kinston,1
-Streamwood,1
-Stanford,1
-Wilm.,1
-Temperance,1
-Theodore,1
-Hackettstown,1
-Cheswick,1
-Oak Grove,1
-Florence,1
-Punxsutawney,1
-Loves Park,1
-Grant,1
-Milford Center,1
-Roslyn Heights,1
-Washingtonville,1
-Spruce Grove,1
-Woodruff,1
-Mint Hill,1
-Egg Harbor Township,1
-Lincoln City,1
-Dorchester,1
-Wakeman,1
-Kimball,1
-Bridgeport,1
-Sheffield Lake,1
-Garner,1
-Crystal Lake,1
-Sarver,1
-Horseheads,1
-Greenvale,1
-Round Lake,1
-Manitou,1
-Deerfield Beach,1
-Sutersville,1
-Keyport,1
-Vanceboro,1
-Stevens Point,1
-Galesburg,1
-Martinez,1
-Wartrace,1
-Petrolia,1
-Gorman,1
-Culver,1
-Inkster,1
-Rosepine,1
-Barnstable County,1
-Elizabeth City,1
-China Spring,1
-Easley,1
-Hedgesville,1
-Rye,1
-Lanesville,1
-Roxboro,1
-Grovetown,1
-Avenel,1
-Coos Bay,1
-Andale,1
-Isom,1
-Mount Holly,1
-Pdx,1
-Galesville,1
-Laguna Hills,1
-Poconos,1
-Township Of Wales,1
-Vermont,1
-Saint Cloud,1
-Santa Clarita,1
-Weatherby Lake,1
-Granbury,1
-Oak Island,1
-Cold Spring,1
-Kirkland,1
-Alva,1
-Jefferson City,1
-New Richmond,1
-Ada,1
-Harold,1
-Southside,1
-South Otselic,1
-Webb City,1
-Ar,1
-Groves,1
-King,1
-Paragould,1
-Lynn,1
-Milford,1
-Wheatfield,1
-New Hope,1
-Barry,1
-Langley Afb lfi,1
-Sunnyside,1
-Clifton Heights,1
-Maitland,1
-Venice,1
-Cranston,1
-Port Jeff Station,1
-Hartford City,1
-South Brunswick Township,1
-Indpls,1
-Rosthern,1
-Lebanon County,1
-Caledonia,1
-Alberta,1
-Clermont,1
-Weidman,1
-Highland,1
-Sheridan,1
-Chalfont,1
-Escondido,1
-Fort Stewart,1
-Laguna Woods,1
-La Luz,1
-Narragansett,1
-Thornton,1
-Sun Prairie,1
-Sackets Harbor,1
-Lake Gogebic,1
-Bayonne,1
-Phialdelphia,1
-Middleboro,1
-Gibsonia,1
-Orfordville,1
-Chimacum,1
-Pingree,1
-Topsfield,1
-Alpha,1
-Mount Angel,1
-Swayzee,1
-Jeannette,1
-Townsend,1
-Gorham,1
-Clarence,1
-Lawrence,1
-Twin Falls,1
-Old Fort,1
-Maryland,1
-Yazoo City,1
-Leesburg,1
-Winston-Salem,1
-Maui County,1
-Santa Barbara,1
-Ponchatoula,1
-Mastic,1
-Lula,1
-West Jordan,1
-Hawthorne,1
-Dover Air Force Base,1
-Bennington,1
-Marvel,1
-So. Glens Falls,1
-Front Royal,1
-Wetumka,1
-Pelham,1
-Santee,1
-Hastings,1
-Moorestown,1
-Byron,1
-Maylene,1
-Deridder,1
-Chapel Hill,1
-Kuna,1
-Provo,1
-Wabash,1
-Bella Vista,1
-Saratoga Springs,1
-Cermont,1
-Nanuet,1
-Supply,1
-Stendal,1
-Mt Holly,1
-Eureka,1
-Nassau County,1
-Apache Junction,1
-Yuma,1
-Merrill,1
-Pueblo,1
-Lutz,1
-Pikeville,1
-Lizella,1
-Hauppauge,1
-Linton,1
-Los Angels,1
-Branson,1
-Crescent City,1
-Norristown,1
-Coden,1
-Dalzell,1
-Cantonment,1
-Kutztown,1
-Crozet,1
-Yigo,1
-Kspt,1
-Hot Springs,1
-Magnolia,1
-Md,1
-Nokomis,1
-Vienna Va,1
-Reeds Spring,1
-Rainier,1
-Saint Louisville Ohio,1
-Mclean,1
-Tennille,1
-Fountain,1
-Cuddebackville,1
-Ponca City,1
-Markle,1
-Wixom,1
-Haysville,1
-Martinsville,1
-Hyde Park,1
-Harvest,1
-Quispamsis,1
-Etown,1
-Owens Cross Roads,1
-Basking Ridge,1
-Locust Valley,1
-Valley City,1
-Pahrump,1
-Inman,1
-Leland,1
-Liverpool,1
-Wahiawa,1
-North Bergen,1
-Haleyville,1
-Tiny,1
-Highlands,1
-Powell,1
-Oroville,1
-Nichoalsville,1
-Valdosta,1
-Star,1
-Guyton,1
-Pinconning,1
-Hallandale Beach,1
-Blue Ridge,1
-Whitestone,1
-Hudson Valley,1
-East Bay,1
-Limington,1
-Bellefonte,1
-Odenton,1
-West Haven,1
-Granada Hills,1
-Middle Amana,1
-Taylors,1
-Bossier,1
-Hales Corners,1
-Mount Gilead,1
-Trinity,1
-Rotterdam,1
-Tomball,1
-Rosamond,1
-Sequim,1
-Williamstown,1
-Bayamon,1
-Munising,1
-University Heights,1
-Wise River,1
-Spring Lake,1
-Woodland,1
-Newberry,1
-Newhall,1
-Kettle Falls,1
-Big Stone Gap,1
-Hobbs,1
-Lyons,1
-North Richland Hills,1
-Lathrop,1
-Swansboro,1
-Selden,1
-Olivehurst,1
-Hometown,1
-Long Valley,1
-Scranton,1
-Newport,1
-Huffman,1
-Welch,1
-Huntersville,1
-Ogden,1
-Reseda,1
-West Valley,1
-Sutherlin,1
-Torrance,1
-Coon Rapids,1
-Whately,1
-Brooksville,1
-Nassau,1
-Doral,1
-Riverton,1
-Negaunee,1
-Lancaster County,1
-Kings Park,1
-Middlebury,1
-Carrollton,1
-Freeland,1
-Catoosa,1
-La Vista,1
-Forest Lake,1
-San Luis Obispo,1
-Arkansas,1
-West Nyack,1
-Wynnewood,1
-Grosse Pointe Park,1
+Ciudades,Freq,lat,lot
+Chicago,68,41.8755616,-87.6244212
+New York,62,40.7127281,-74.0060152
+Houston,57,29.7589382,-95.3676974
+Los Angeles,56,34.0536909,-118.242766
+Dallas,42,32.7762719,-96.7968559
+Atlanta,40,33.7489924,-84.3902644
+Miami,39,25.7741728,-80.19362
+Philadelphia,38,39.9527237,-75.1635262
+San Diego,37,32.7174202,-117.1627728
+Pittsburgh,35,40.4416941,-79.9900861
+Orlando,35,28.5421109,-81.3790304
+Charlotte,34,35.2272086,-80.8430827
+Boston,32,42.3602534,-71.0582912
+Cleveland,31,41.5051613,-81.6934446
+Las Vegas,31,36.1672559,-115.148516
+San Antonio,29,29.4246002,-98.4951405
+Jacksonville,28,30.3321838,-81.655651
+Nashville,27,36.1622767,-86.7742984
+Tampa,25,27.9477595,-82.458444
+Austin,25,30.2711286,-97.7436995
+Minneapolis,23,44.9772995,-93.2654692
+Columbus,23,39.9622601,-83.0007065
+Washington,23,38.8949924,-77.0365581
+Rochester,23,43.157285,-77.615214
+Brooklyn,22,40.6526006,-73.9497211
+Phoenix,21,33.4484367,-112.0741417
+Denver,20,39.7392364,-104.9848623
+Raleigh,20,35.7803977,-78.6390989
+Indianapolis,20,39.7683331,-86.1583502
+Seattle,19,47.6038321,-122.3300624
+Greenville,19,34.851354,-82.3984882
+Lexington,18,38.0464066,-84.4970393
+Baltimore,18,39.2908816,-76.610759
+St. Louis,17,38.6529545,-90.24111656024635
+Wilmington,17,39.7459468,-75.546589
+California,17,36.7014631,-118.755997
+San Francisco,17,37.7790262,-122.419906
+Birmingham,16,52.4796992,-1.9026911
+Sacramento,16,38.5810606,-121.493895
+Cincinnati,16,39.1014537,-84.5124602
+Kansas City,16,39.100105,-94.5781416
+Springfield,16,39.7990175,-89.6439575
+Tulsa,15,36.1556805,-95.9929113
+Fort Worth,15,32.753177,-97.3327459
+Buffalo,15,42.8867166,-78.8783922
+El Paso,15,31.7754152,-106.464634
+Long Beach,15,33.7690164,-118.191604
+Madison,15,43.074761,-89.3837613
+Detroit,15,42.3315509,-83.0466403
+Richmond,14,37.5385087,-77.43428
+Ontario,14,50.000678,-86.000977
+San Jose,14,37.3361905,-121.890583
+Oklahoma City,14,35.4729886,-97.5170536
+Charleston,14,32.7876012,-79.9402728
+North Carolina,13,35.6729639,-79.0392919
+Omaha,13,41.2587459,-95.9383758
+Tucson,13,32.2228765,-110.9748477
+Florida,13,27.7567667,-81.4639835
+Bronx,13,40.8466508,-73.8785937
+Columbia,13,4.099917,-72.9088133
+Fresno,13,36.7295295,-119.70886126075588
+Lancaster,13,40.03813,-76.3056686
+Toronto,12,43.6534817,-79.3839347
+Memphis,12,35.1490215,-90.0516285
+Ohio,12,40.2253569,-82.6881395
+Colorado Springs,12,38.8339578,-104.8253485
+Wichita,11,37.6922361,-97.3375448
+Milwaukee,11,43.0349931,-87.922497
+Portland,11,45.5202471,-122.6741949
+Aurora,10,41.7571701,-88.3147539
+Virginia Beach,10,36.8529841,-75.9774183
+Auburn,10,32.6098566,-85.4807825
+South Bend,10,41.6833813,-86.2500066
+Georgia,10,32.3293809,-83.1137366
+Pensacola,10,30.421309,-87.2169149
+Vancouver,10,49.2608724,-123.113952
+Texas,10,31.8160381,-99.5120986
+Louisville,10,38.2542376,-85.759407
+Edmonton,9,53.535411,-113.507996
+Riverside,9,33.9533546,-117.3961623
+Knoxville,9,35.9603948,-83.9210261
+Saint Louis,9,38.6529545,-90.24111656024635
+Savannah,9,32.0809263,-81.0911768
+Spokane,9,47.6571934,-117.4235106
+Calgary,9,51.0460954,-114.065465
+Fort Lauderdale,9,26.1223084,-80.1433786
+Albuquerque,9,35.0841034,-106.650985
+Newark,8,40.735657,-74.1723667
+Syracuse,8,43.0481221,-76.1474244
+Lakeland,8,28.0394654,-81.9498042
+Baton Rouge,8,30.4459596,-91.18738
+Marietta,8,33.9528472,-84.5496148
+Little Rock,8,34.7464809,-92.2895948
+Flint,8,43.0161693,-83.6900211
+Virginia,8,37.1232245,-78.4927721
+Salem,8,44.9391565,-123.033121
+Albany,8,42.6511674,-73.754968
+Winnipeg,8,49.8955367,-97.1384584
+Broken Arrow,8,36.0525993,-95.7908195
+Sarasota,8,27.3365805,-82.5308545
+Chesapeake,8,36.7183708,-76.2466798
+Arlington,8,32.701938999999996,-97.10562379033699
+Greensboro,7,36.0726355,-79.7919754
+Salt Lake City,7,40.7596198,-111.8867975
+Akron,7,41.083064,-81.518485
+Tacoma,7,47.2495798,-122.4398746
+Dayton,7,39.7589478,-84.1916069
+Warren,7,40.8442828,-90.6168408
+Scottsdale,7,33.4942189,-111.9260184
+Toledo,7,39.8560679,-4.0239568
+Long Island,7,40.85149705,-73.0994258107431
+Lincoln,7,40.8088861,-96.7077751
+Lafayette,7,30.2240897,-92.0198427
+New Orleans,7,29.9499323,-90.0701156
+Spring Hill,7,41.4117626,-93.6479872
+Ocala,7,29.1871986,-82.1400923
+Jackson,7,32.2990384,-90.1847691
+Moore,7,35.8156121,-101.9104355
+Honolulu,7,21.304547,-157.855676
+Canton,7,23.1301964,113.2592945
+Fort Myers,7,26.640628,-81.8723084
+Reading,7,51.456659,-0.9696512
+Utica,7,43.1009031,-75.2326641
+Westminster,7,51.5004439,-0.1265398
+Huntington,7,38.4192496,-82.445154
+Topeka,7,39.049011,-95.677556
+Providence,6,41.8239891,-71.4128343
+Evansville,6,37.9747645,-87.5558483
+Elk Grove,6,38.4087993,-121.3716178
+Kenosha,6,42.5846773,-87.8212263
+Edison,6,40.5382375,-74.39451734508772
+Burlington,6,44.4761601,-73.212906
+Concord,6,43.207178,-71.537476
+Green Bay,6,44.5126379,-88.0125794
+Fort Wayne,6,41.0799898,-85.1386015
+Mount Pleasant,6,33.1570582,-94.9694007
+Rock Hill,6,34.9248667,-81.0250784
+Clovis,6,36.8252277,-119.7029194
+Chandler,6,33.3061605,-111.84125
+Modesto,6,37.6390972,-120.9968782
+Fredericksburg,6,38.3031837,-77.4605399
+Belleville,6,48.8176714,6.0982683
+Michigan,6,43.6211955,-84.6824346
+Middletown,6,41.54961415,-72.65157756750801
+Bakersfield,6,35.3738712,-119.0194639
+Augusta,6,33.4709714,-81.9748429
+Staten Island,6,40.5834557,-74.1496048
+Huntsville,6,34.729847,-86.5859011
+Des Moines,6,41.5910323,-93.6046655
+Kissimmee,6,28.2918995,-81.4075838
+Eugene,6,44.0505054,-123.0950506
+Laurel,6,31.6940509,-89.1306124
+Shreveport,6,32.5221828,-93.7651944
+York,6,53.9590555,-1.0815361
+Boise,6,43.6166163,-116.200886
+Katy,6,29.7857853,-95.8243956
+Ny,6,43.1561681,-75.8449946
+Roanoke,5,37.270973,-79.9414313
+Tallahassee,5,30.4380832,-84.2809332
+Mattoon,5,39.4842821,-88.3773279
+Lakewood,5,39.624608499999994,-105.08420400222404
+Quincy,5,42.2509914,-71.0037374
+Waukesha,5,43.0053145,-88.24736430153254
+Watertown,5,42.3709299,-71.1828321
+Anaheim,5,33.8340292,-117.93348585416624
+Altoona,5,40.518681,-78.394736
+Stockton,5,37.9577016,-121.2907796
+Odessa,5,46.4858883,30.683651011009996
+Cambridge,5,52.2055314,0.1186637
+Danville,5,40.125222,-87.6304614
+Cypress,5,33.8248235,-118.0399368
+Cary,5,35.7882893,-78.7812081
+Kansas,5,38.27312,-98.5821872
+Oakland,5,37.8044557,-122.2713563
+Corpus Christi,5,27.7951482,-97.3942053
+Beaumont,5,30.0860459,-94.1018461
+Mckinney,5,33.1976496,-96.6154471
+St Paul,5,44.9497487,-93.0931028
+Mesa,5,33.4151117,-111.8314792
+Norfolk,5,52.6735891,0.9532018866187124
+Georgetown,5,6.8137426,-58.1624465
+Durham,5,35.996653,-78.9018053
+Jersey City,5,40.7215682,-74.047455
+Rockford,5,42.2713945,-89.093966
+Illinois,5,40.0796606,-89.4337288
+Allentown,5,40.6022059,-75.4712794
+Chattanooga,5,35.0457219,-85.3094883
+Pasadena,5,34.1476452,-118.1444779
+Nebraska,5,41.7370229,-99.5873816
+Montgomery,5,32.3669656,-86.3006485
+Shawnee,5,39.0273676,-95.7627535
+Charlottesville,5,38.029306,-78.4766781
+Gilbert,5,33.3527632,-111.7890373
+Fayetteville,5,36.0625843,-94.1574328
+Appleton,5,44.2613967,-88.4069744
+Manhattan,5,40.7896239,-73.9598939
+Temecula,5,33.4946353,-117.1473661
+Covington,5,39.0836224,-84.508371
+Oakdale,5,44.985624,-92.9645794
+Lebanon,5,33.8750629,35.843409
+Franklin,5,33.16011905,-95.21652077002003
+Waterloo,5,42.4979693,-92.3329637
+Harrisburg,5,40.2663107,-76.8861122
+San Tan Valley,5,33.1775233,-111.5478925
+Lake Worth,5,32.8048507,-97.44502
+Norwood,4,40.7055931,-89.6987129
+Easton,4,40.6916081,-75.2099866
+Saint Charles,4,38.7877791,-90.6747372
+Owasso,4,36.2659698,-95.8548557
+Somerset,4,51.161750850000004,-3.0753867062227487
+Greenfield,4,42.6097476,-72.5979752
+Boynton Beach,4,26.5256179,-80.0666026
+Wayne,4,38.4251958,-88.4197678
+Mobile,4,30.6943566,-88.0430541
+Saint Petersburg,4,59.917857350000006,30.380619357025516
+Deltona,4,28.9005446,-81.2636738
+Sandy,4,40.5664878,-111.838904
+Gaithersburg,4,39.1399187,-77.1929215
+Morristown,4,40.7970382,-74.4809868
+Round Rock,4,30.508235,-97.6788934
+Woodbridge,4,40.55418,-74.28600076944446
+New Jersey,4,40.0757384,-74.4041622
+Grand Rapids,4,42.9632405,-85.6678639
+Janesville,4,42.6829765,-89.0226793
+Indiana,4,40.3270127,-86.1746933
+Duluth,4,46.7729322,-92.1251218
+Bristol,4,51.4538022,-2.5972985
+Oxnard,4,34.1976308,-119.1803818
+Longview,4,32.5007031,-94.74049
+Erie,4,42.1294712,-80.0852695
+Longmont,4,40.1672117,-105.1019287
+Panama City,4,30.1600827,-85.6545729
+Greensburg,4,40.3014581,-79.5389289
+Maryville,4,38.7236594,-89.9559348
+Sanford,4,35.4798757,-79.1802994
+Pocatello,4,42.8620287,-112.450627
+Alexandria,4,31.199004,29.894378
+Slidell,4,30.2751945,-89.7811745
+Massachusetts,4,42.3788774,-72.032366
+Campbell,4,37.2870626,-121.9448818
+Olathe,4,38.8838856,-94.81887
+Manchester,4,53.4794892,-2.2451148
+Saginaw,4,43.4200387,-83.9490365
+Independence,4,39.0924792,-94.4137923
+Oregon,4,43.9792797,-120.737257
+Salisbury,4,51.0690613,-1.7954134
+Clearwater,4,27.9658533,-82.8001026
+Anderson,4,31.7819242,-95.6258199
+Melbourne,4,-37.8142176,144.9631608
+Spring,4,30.0798826,-95.4172549
+Dover,4,51.1251275,1.3134228
+Hamilton,4,43.2560802,-79.8728583
+Mooresville,4,35.5848596,-80.8100724
+Kingsport,4,36.550238,-82.5594293
+Asheville,4,35.6009498,-82.5540161
+Okc,4,35.3848053,-97.60534425082406
+Plano,4,33.0136764,-96.6925096
+Athens,4,37.9839412,23.7283052
+Newport News,4,36.9775016,-76.42977
+Council Bluffs,4,41.2621283,-95.8613912
+Hagerstown,4,39.6419219,-77.7202641
+Fort Smith,4,35.3872218,-94.4248983
+Worcester,4,42.2625621,-71.8018877
+Suffolk,4,52.241001350000005,1.0466830312565236
+Irvine,4,33.6856969,-117.8259819
+New Rochelle,4,40.9115386,-73.7826363
+Ankeny,4,41.7318715,-93.6003837
+West Palm Beach,4,26.715364,-80.0532942
+Germantown,4,38.5536601,-89.5384209
+Cape Coral,4,26.6059432,-81.9806771
+Decatur,4,39.8454163,-88.9524151
+Greer,4,34.9381361,-82.2272119
+Hoboken,4,40.7433066,-74.0323752
+Wylie,4,33.0151201,-96.5388789
+Fremont,4,37.5482697,-121.988571
+Owensboro,4,37.7742152,-87.1133304
+Meridian,3,32.3643098,-88.703656
+Brunswick,3,52.2646577,10.5236066
+Pataskala,3,39.9955726,-82.6742373
+Elizabeth,3,40.6639916,-74.2107006
+Elyria,3,41.3673191,-82.1073583
+Neenah,3,44.1858193,-88.462609
+Stanley,3,-51.69487225,-57.84522966123792
+Newfoundland And Labrador,3,53.8217327,-61.2295532
+Everett,3,47.9673056,-122.2013998
+Spokane Valley,3,47.6571104,-117.2613936
+Grand Junction,3,39.063956,-108.5507317
+Buena Park,3,33.870413,-117.9962165
+Loveland,3,40.385549,-105.04436132094955
+San Juan,3,18.465299,-66.116666
+Shelbyville,3,38.2120144,-85.2235666
+Palm Springs,3,33.772179449999996,-116.49529769785079
+Hudson,3,42.7654433,-71.4397167
+Wilson,3,29.1589961,-98.1251465
+Huntington Beach,3,33.6783336,-118.0000166
+New Castle,3,40.9999202,-80.3471856
+Houma,3,29.5957696,-90.7195348
+Pflugerville,3,30.4393696,-97.6200043
+Riverview,3,46.0612076,-64.8033246
+Valrico,3,27.9484265,-82.23621545220522
+Twentynine Palms,3,34.1649,-116.03664639611176
+Vallejo,3,38.1040864,-122.2566367
+Oklahoma,3,34.9550817,-97.2684063
+West Chester,3,39.9597213,-75.6059638
+Grants Pass,3,42.4393707,-123.3272489
+Lake Havasu City,3,34.4838502,-114.3224495
+Waynesboro,3,38.0686668,-78.8893999
+Killeen,3,31.1171441,-97.727796
+Tuscaloosa,3,33.2095614,-87.5675258
+Bucks County,3,40.3451668,-75.1263909
+Loganville,3,33.8389977,-83.9007382
+Oxford,3,39.7852062,-75.9790215
+Liberty,3,30.0856736,-94.7856262
+Tustin,3,33.7458511,-117.826166
+Biloxi,3,30.3960318,-88.8853645
+Westland,3,42.3238056,-83.4005321
+Chagrin Falls,3,41.436589,-81.3855058
+Martinsburg,3,39.4562528,-77.9639604
+St Louis,3,38.6529545,-90.24111656024635
+Newton,3,30.8118989,-93.740504
+Port Saint Lucie,3,27.2939333,-80.3503283
+Yakima,3,46.601557,-120.5108421
+Palmyra,3,34.5526608,38.259261004689264
+Gulfport,3,30.3674198,-89.0928155
+Statesboro,3,32.4490141,-81.7832912
+Castle Rock,3,39.3723341,-104.8586643
+Toms River,3,39.9537359,-74.1979576
+Marion,3,32.7931661,-94.344488
+Valparaiso,3,-33.0458456,-71.6196749
+Olympia,3,37.638189999999994,21.63053756728882
+Findlay,3,41.0413873,-83.6503982
+Moncks Corner,3,33.1960027,-80.0131374
+Palm Bay,3,27.959186199999998,-80.67174097572686
+Calhoun,3,28.5031572,-96.6736551
+Grand Forks,3,47.9078244,-97.0592028
+Crowley,3,38.3394806,-103.8263042
+Carol Stream,3,41.9125286,-88.1347927
+Westchester,3,41.1763139,-73.7907554
+Jonesboro,3,35.8428646,-90.7034522
+Oshkosh,3,44.0206919,-88.5408574
+Ann Arbor,3,42.2681569,-83.7312291
+El Cajon,3,32.7947731,-116.9625269
+Yuba City,3,39.1404477,-121.6169108
+Huntington Park,3,33.9827043,-118.2120343
+Roseville,3,38.7521235,-121.2880059
+Kennesaw,3,34.0234337,-84.6154897
+Santa Cruz,3,28.469648,-16.2540884
+Buckeye,3,33.3703197,-112.5837766
+Reno,3,39.5261206,-119.8126581
+Apopka,3,28.6779683,-81.5115214
+Renton,3,47.4799078,-122.2034496
+Kentucky,3,37.5726028,-85.1551411
+Spring Valley,3,29.7911185,-95.50315788109191
+Cedar Falls,3,42.5274123,-92.4453179
+Fairfield,3,38.2493581,-122.039966
+San Bernardino,3,34.8253019,-116.0833144
+Holland,3,52.5001698,5.7480821
+Vineland,3,39.4862777,-75.0254256
+Norwalk,3,41.1175966,-73.4078968
+Valley Stream,3,40.6631362,-73.7056955
+Bolingbrook,3,41.7003302,-88.0717708
+Battle Creek,3,42.3192548,-85.1824269
+Federal Way,3,47.313494,-122.3393103
+Collierville,3,35.042036,-89.6645266
+Bellevue,3,47.6144219,-122.192337
+Beaverton,3,45.4871723,-122.80378
+Alabama,3,33.2588817,-86.8295337
+Redlands,3,34.0550328,-117.1827445
+Brandon,3,46.35270835,4.577608667704116
+Mesquite,3,32.7666103,-96.599472
+Spartanburg,3,34.9498007,-81.9320157
+Williamsburg,3,37.2708788,-76.7074042
+Hampton,3,37.0300969,-76.3452057
+Windsor,3,51.483757749999995,-0.6040964041849046
+Kalamazoo,3,42.291707,-85.5872286
+Camp Lejeune,3,34.63941505,-77.34201604164966
+Clayton,3,42.8547706,-91.3667151
+Mechanicsville,3,41.9044574,-91.2546067
+Winchester,3,51.0612766,-1.3131692
+Gainesville,3,29.6519684,-82.3249846
+Santa Ana,3,33.7494951,-117.8732213
+Philly,3,39.88771115,-75.19078391488154
+Conway,3,35.2521996,-92.6888936
+Gastonia,3,35.2622158,-81.1838794
+Queens,3,40.7135078,-73.8283132
+Sioux City,3,42.4966815,-96.4058782
+Macon,3,32.8406946,-83.6324022
+Monroe,3,38.2722313,-90.1792484
+Victorville,3,34.5361067,-117.2911565
+Lawton,3,34.6086854,-98.3903305
+Beaufort,3,50.2207301,3.9661418
+Bartlesville,3,36.7494864,-95.9782966
+Naples,3,40.8359336,14.2487826
+Lake Charles,3,30.2265949,-93.2173759
+Muncie,3,40.1936892,-85.3865271
+Stillwater,3,36.1156306,-97.0585717
+Frisco,3,33.1506744,-96.8236116
+Winter Haven,3,28.0222435,-81.7328568
+Lagrange,3,43.1268715,0.3513345
+Lansing,3,42.7337712,-84.5553805
+Bradenton,3,27.4989278,-82.5748194
+Plymouth,3,50.3712659,-4.1425658
+Mountain Home,3,43.1329504,-115.6911975
+Batavia,3,-6.1753942,106.827183
+New Haven,3,41.298434349999994,-72.93102342707913
+Berlin,3,52.5170365,13.3888599
+Boone,3,42.321246,-88.8235511
+Ridley Park,3,39.8812236,-75.3237993
+Schaumburg,3,42.0333608,-88.083406
+Madisonville,3,37.3280037,-87.4986989
+Portage,3,42.2011538,-85.5800022
+Bedford,3,52.1363806,-0.4675041
+Murfreesboro,3,35.8460396,-86.3921096
+Halifax,3,44.648618,-63.5859487
+Silver Spring,3,38.9997621,-77.02403709829767
+Bel Air,3,34.0827278,-118.4479802
+Burbank,3,34.1816482,-118.3258554
+Waterford,3,52.2609997,-7.1119081
+Parma,3,44.8013678,10.3280833
+Salinas,3,36.6744117,-121.6550372
+New Bedford,3,41.6362152,-70.934205
+Scott City,3,38.4825192,-100.9070949
+Monterey,3,36.2231079,-121.3877428
+Garden Grove,3,33.7746292,-117.9463717
+Centerville,3,31.2578221,-95.9785301
+Gretna,3,29.9146493,-90.0539604
+Herndon,3,39.909726,-100.785153
+Minnesota,3,45.9896587,-94.6113288
+Laredo,2,27.5236998,-99.497352
+Deland,2,29.0283213,-81.3031098
+Elsmere,2,39.0125608,-84.6046663
+Riverbank,2,37.7360396,-120.9354895
+Beverly Hills,2,34.0696501,-118.3963062
+Angola,2,-11.8775768,17.5691241
+Whitsett,2,40.1042402,-79.7505974
+Lynchburg,2,37.4137536,-79.1422464
+Bristow,2,42.7751513,-92.9057024
+Jasper,2,30.7485258,-94.000884
+Great Falls,2,47.5048851,-111.29189
+Chino,2,34.0133561,-117.690075
+Lake Forest,2,42.2586342,-87.840625
+Edmond,2,35.6571367,-97.4649038
+Crockett,2,30.6517377,-101.3766686
+Willoughby,2,41.6397696,-81.4065011
+Delphos,2,40.6636026,-94.3394015
+Puyallup,2,47.1849009,-122.29214
+Hadley,2,44.0010355,-95.8539077
+Port Richey,2,28.2716755,-82.7195451
+Apollo Beach,2,27.7729445,-82.39813752699379
+Tennessee,2,35.7730076,-86.2820081
+St. Petersburg,2,59.917857350000006,30.380619357025516
+Gulf Coast,2,26.301135,-81.797742
+Thibodaux,2,29.7957633,-90.822871
+Winston Salem,2,36.0998131,-80.2440518
+Antioch,2,38.0049214,-121.805789
+Hyattsville,2,38.9529442,-76.9408647
+Sturgis,2,44.409707,-103.509079
+Saint Paul,2,44.9497487,-93.0931028
+Hermitage,2,59.9412076,30.315486515853937
+La Puente,2,34.01979,-117.9503677
+Temple,2,31.098207,-97.3427847
+Buena Vista,2,42.7445814,-95.1127525
+Jamestown,2,37.2104434,-76.7738928
+Fair Oaks,2,38.642897000000005,-121.24624532104002
+Whitehall,2,51.5023278,-0.1260826
+Inwood,2,43.307926,-96.432184
+Hillsdale,2,41.8779105,-84.5984396
+Arizona,2,34.395342,-111.763275
+Glenview,2,38.3084193,-85.6505526
+Bardstown,2,37.8092279,-85.4669025
+Brenham,2,30.1668828,-96.3977442
+Norman,2,35.2225717,-97.4394816
+London,2,51.5073219,-0.1276474
+Kingston,2,17.9712148,-76.7928128
+Bronston,2,36.9856324,-84.6229965
+Westport,2,41.1414855,-73.3578955
+Abingdon,2,51.6714842,-1.2779715
+Aston,2,42.7744772,1.6717942
+Rocky Point,2,40.935652250000004,-72.93548819601511
+Winnabow,2,34.1493374,-78.0936046
+Lee's Summit,2,38.9107156,-94.3821295
+Hamden,2,42.1911969,-74.9946083
+Greenwood,2,37.8709542,-96.2471338
+Hesperia,2,34.4263886,-117.3008784
+Abilene,2,32.44645,-99.7475905
+Naperville,2,41.7728699,-88.1479278
+Niles,2,42.0289319,-87.8122348
+Whittier,2,33.9708782,-118.0308396
+Alameda,2,37.6090291,-121.899142
+Tualatin,2,45.3838546,-122.766351
+Hanover,2,52.3744779,9.7385532
+Ennis,2,32.3293111,-96.6252679
+Hutchinson,2,35.8148236,-101.34844
+Demotte,2,41.1950369,-87.1986403
+Hartford,2,41.7655582,-72.69061276146614
+Wilbraham,2,42.1227601,-72.4286259
+Edgewood,2,42.6449174,-91.4007896
+Cumberland,2,39.2744299,-88.2423795
+Orange County,2,33.7500378,-117.8704931
+Utah,2,39.4225192,-111.714358
+Atwater,2,45.1363343,-94.7810199
+Bloomfield,2,40.7516884,-92.4149074
+Flushing,2,51.49433865,3.415005767601362
+Port St Lucie,2,27.2939333,-80.3503283
+Qubec,2,52.4760892,-71.8258668
+Central,2,-0.5107599,36.8452516
+Weatherford,2,32.7589648,-97.7970748
+Draper,2,40.5246711,-111.8638226
+Traverse City,2,44.7606441,-85.6165301
+Victoria,2,-36.5986096,144.6780052
+Hendersonville,2,35.3187279,-82.4609528
+Tyler,2,32.3512601,-95.3010624
+Murrieta,2,33.577752399999994,-117.18845420205307
+Port Orange,2,29.101628050000002,-81.01059617608054
+Pawtucket,2,41.878711,-71.3825558
+Opelousas,2,30.5335302,-92.081509
+Cedarburg,2,43.2966545,-87.9875348
+Redondo Beach,2,33.8455911,-118.3886766
+Rio Rancho,2,35.269381,-106.632819
+Spencer,2,43.1413578,-95.1444393
+Las Cruces,2,32.3140354,-106.7798078
+Medford,2,42.4184296,-71.1061639
+Flowery Branch,2,34.1851017,-83.9251809
+Fullerton,2,33.8708215,-117.9294165
+Morehead,2,38.1839705,-83.4326841
+Tonawanda,2,42.993581500000005,-78.88190435163935
+Fort Collins,2,40.5508527,-105.0668085
+Pineville,2,36.7620301,-83.6949176
+New Milford,2,42.1798043,-89.05669931594156
+Piqua,2,40.1447732,-84.2424449
+Mount Dora,2,28.818746750000003,-81.64585723799206
+Winfield,2,37.2397486,-96.9955919
+Paducah,2,37.0833893,-88.6000478
+Bettendorf,2,47.5852476,7.2770871
+Oak Hill,2,39.24656375,-97.34284800780038
+Lubbock,2,33.5635206,-101.879336
+Schenectady,2,42.8142432,-73.9395687
+Seekonk,2,41.808434,-71.3369973
+Whitesboro,2,33.6564674,-96.9059847
+Conyers,2,33.6676103,-84.0176904
+St Petersburg,2,59.917857350000006,30.380619357025516
+Marianna,2,30.7743596,-85.2268735
+Delavan,2,43.7677968,-94.0196815
+Glen Burnie,2,39.159265700000006,-76.61514169257863
+Mayfield,2,36.7413624,-88.6352595
+Littleton,2,39.613321,-105.0166498
+Chambersburg,2,39.9405903,-77.6598624
+Wilton,2,47.5034,-95.001117
+Essex,2,51.77046785,0.46466977412300386
+Lockhart,2,29.8832105,-97.6736292
+Pharr,2,26.1947962,-98.1836216
+Lorain,2,41.4673238,-82.1781904
+Medina,2,29.2836281,-99.1126826
+Idaho,2,43.6447642,-114.015407
+Lexington Park,2,40.0534446,-75.0462829
+Sicklerville,2,39.7173375,-74.9693329
+Westfield,2,42.1390327,-72.7584859
+Fuquay Varina,2,35.5843849,-78.7998691
+Troy,2,39.957373950000004,26.238017461011644
+Avondale,2,33.4355977,-112.349602
+Hensley,2,37.4740011,-81.6998327
+Candor,2,49.626539,2.8935199
+North Tonawanda,2,43.0407742,-78.8660527
+Johns Creek,2,34.0181557,-84.190196
+Port Orchard,2,47.5315625,-122.6384056
+Sulphur,2,30.2365943,-93.3773783
+New Lenox,2,41.5119761,-87.9656098
+Kingman,2,35.189443,-114.0530065
+Nampa,2,43.589657,-116.56350942210636
+North Ridgeville,2,41.3894905,-82.0190321
+Moline,2,41.5067003,-90.5151342
+Colchester,2,51.8896903,0.8994651
+Bowling Green,2,36.9903199,-86.4436018
+San Angelo,2,31.4649685,-100.4405094
+Tryon,2,46.2378006,-63.5428428
+Midland,2,31.9973662,-102.0779482
+Lowell,2,42.6334247,-71.3161718
+Upstate,2,40.7263224,-73.9864498
+Wyoming,2,43.1700264,-107.568534
+Fulton,2,40.4714305,-90.1845556
+Acton,2,51.5081402,-0.2732607
+Louisiana,2,30.8703881,-92.007126
+Ashland,2,46.2062319,-90.6802594
+San Mateo,2,37.496904,-122.3330573
+Plaquemine,2,30.2890833,-91.2342744
+Bryan,2,30.6743643,-96.3699632
+Marysville,2,48.0517429,-122.1768209
+Orange,2,33.7500378,-117.8704931
+Humble,2,29.9988312,-95.2621553
+Luzerne,2,49.138486,-1.0505573
+Fort Walton Beach,2,30.4057552,-86.618842
+Holly,2,42.7919727,-83.6277255
+Latrobe,2,40.317287,-79.3840301
+Westville,2,45.5615392,-62.7085523
+Gonzales,2,29.4436555,-97.5108636
+Summerville,2,33.0186699,-80.1762704
+Snohomish,2,47.9180275,-122.0899646
+Shelton,2,41.31561,-73.14016262885858
+Eagle Mountain,2,42.0620352,-74.50932
+Titusville,2,28.6122187,-80.8075538
+Great Mills,2,38.2367924,-76.4971762
+Joliet,2,41.5263603,-88.0840212
+Mukwonago,2,42.8666803,-88.3334274
+Ilion,2,43.0150703,-75.0354347
+Pennington,2,48.0513335,-96.0829271
+Sylmar,2,34.3076252,-118.4492148
+West Des Moines,2,41.5645337,-93.7595281
+Royersford,2,40.1842688,-75.5379639
+Princeton,2,40.3492744,-74.6592958
+Mchenry,2,42.3294391,-88.4605713
+Astoria,2,46.187885,-123.831256
+Fort Meade,2,27.7522526,-81.8017491
+North Las Vegas,2,36.2005843,-115.1215844
+Colorado,2,38.7251776,-105.607716
+Sumter,2,28.6689748,-82.076402
+Imperial,2,33.0305487,-115.3595666
+Pembroke Pines,2,26.0031465,-80.223937
+Malone,2,44.84881,-74.295044
+Hollywood,2,34.0980031,-118.329523
+North Huntingdon,2,40.3446332,-78.0281185
+New Britain,2,-5.2245897,151.55696765353173
+Bismarck,2,46.808327,-100.783739
+Amarillo,2,35.2072185,-101.8338246
+Plainfield,2,41.6086711,-88.2054345
+Hillsboro,2,45.5228939,-122.989827
+Rancho Cordova,2,38.5890723,-121.302728
+Montreal,2,45.5031824,-73.5698065
+Kernersville,2,36.1198589,-80.0736533
+La Pine,2,46.0820957,-92.7542126
+Canyon,2,34.99253385,-101.92788331921604
+Peoria,2,40.6938609,-89.5891008
+Canfield,2,41.025059,-80.760912
+Chesterfield,2,38.661953,-90.5643258
+St. Paul,2,44.9497487,-93.0931028
+Mount Clemens,2,42.5972563,-82.8779754
+Peru,2,-6.8699697,-75.0458515
+Clarkston,2,33.8095487,-84.2396434
+Sellersburg,2,38.3979718,-85.7550735
+Yorba Linda,2,33.8901096,-117.8249705
+Buford,2,34.1206564,-84.0043513
+New Wilmington,2,41.1222812,-80.3328428
+Lewisville,2,33.046233,-96.994174
+Framingham,2,42.3095704,-71.4413097
+Weymouth,2,50.6096257,-2.4543424
+Boiling Springs,2,35.254292,-81.6670407
+Sidney,2,47.716735,-104.155973
+Sterling Heights,2,42.5803122,-83.0302033
+Moreno Valley,2,33.937517,-117.2305944
+Warner Robins,2,32.6200973,-83.606568
+Carmichael,2,38.62709845,-121.32224222755409
+Rockville,2,39.0817985,-77.1516844
+Phenix City,2,32.4709761,-85.0007653
+Barberton,2,41.012833,-81.6051221
+Choctaw,2,35.4975654,-97.2689263
+Hobart,2,-42.8825088,147.3281233
+Malden,2,42.4250964,-71.066163
+Cheektowaga,2,42.9086793,-78.74809257103851
+San Pedro,2,5.014152,-6.940223716273168
+Tecumseh,2,42.0039331,-83.9449417
+Hammonton,2,39.6365056,-74.8023853
+Etters,2,51.23678975,-105.29748841045563
+Wilkes Barre,2,41.2464824,-75.8817316
+Fort Pierce,2,27.4467056,-80.3256056
+Mechanicsburg,2,40.2101972,-77.0047276
+Bossier City,2,32.5369356,-93.6952689
+Eagan,2,44.818173,-93.1659179
+High Point,2,35.9556924,-80.0053176
+Levittown,2,40.7219525,-73.51260989713458
+Rocklin,2,38.7907339,-121.2357828
+Tempe,2,33.4255056,-111.9400091
+Northfield,2,44.4582041,-93.161159
+Chicopee,2,42.1487691,-72.6071119
+Scappoose,2,45.7572997,-122.8743589
+Annapolis,2,38.9786401,-76.492786
+Lombard,2,47.0783,5.85362
+Columbus Grove,2,40.919711,-84.0568336
+Greeley,2,40.4233142,-104.7091322
+Reidsville,2,36.3548586,-79.6644748
+Pasco,2,28.2996183,-82.4522702
+Lockport,2,43.1687104,-78.696567
+Fairfax,2,38.8462236,-77.3063733
+Bay Area,2,37.7884969,-122.3558473
+Missouri,2,38.7604815,-92.5617875
+Winston-salem,2,36.0998131,-80.2440518
+Senatobia,2,34.6175679,-89.9687011
+Compton,2,33.894927,-118.226624
+Brookhaven,2,31.5790588,-90.4406506
+Southbury,2,41.4814848,-73.2131693
+West Allis,2,43.0166806,-88.0070315
+Aiken,2,33.5598586,-81.721952
+Sebastian,2,35.1770785,-94.2654285
+Hillsborough,2,27.9184543,-82.3488057
+Fenton,2,38.5131989,-90.4400578
+North Hollywood,2,34.1729044,-118.3740371
+Lufkin,2,31.3386242,-94.7288558
+Takoma Park,2,38.9778882,-77.0074765
+Ladson,2,32.9857275,-80.1098123
+Hephzibah,2,33.3140311,-82.0967857
+Irving,2,32.8295183,-96.9442177
+Morgantown,2,39.6296809,-79.9559437
+White City,2,50.43296475,-104.39379733150736
+Quakertown,2,40.4417682,-75.3415667
+Fostoria,2,43.2421877,-95.1555519
+Meadville,2,41.641445,-80.151449
+Mira Loma,2,33.5045742,-117.1385853
+Sharon,2,41.2331116,-80.4934035
+Bloomington,2,39.1670396,-86.5342881
+Middle River,2,48.4343071,-96.1640721
+Portsmouth,2,50.8036831,-1.075614
+Elmira,2,42.0897965,-76.8077338
+Great Lakes,2,42.3093241,-87.8496551
+Jacksonville Beach,2,30.2946859,-81.3931396
+Boca Raton,2,26.3586885,-80.0830984
+Gresham,2,45.4997475,-122.4309766
+Hamburg,2,53.550341,10.000654
+North Providence,2,41.8500997,-71.4661703
+Clifton,2,40.8584328,-74.1637553
+Bullhead City,2,35.1477774,-114.5682983
+Cuyahoga Falls,2,41.1348213,-81.4848086
+Aberdeen,2,57.1482429,-2.0928095
+Howell,2,36.766989,-91.9151975
+Marmaduke,2,36.1860947,-90.3837068
+Glendale,2,34.1469416,-118.2478471
+Nova Scotia,2,45.1960403,-63.1653789
+Litchfield,2,41.747319,-73.1887243
+Rogersville,2,34.8252065,-87.2940604
+Porter,2,41.4457032,-87.0724971
+Metairie,2,29.9899926,-90.1505426
+Weslaco,2,26.1595156,-97.9908429
+Delran,2,40.0179845,-74.94348457116372
+Fort Mill,2,35.04815395,-80.91573089223536
+Severn,2,52.6421055,-2.6353218
+Haymarket,2,51.5087561,-0.13149034119273803
+Copperas Cove,2,31.124062,-97.9030785
+Seneca,2,41.3107161,-88.6090863
+Glenn Dale,2,38.9835145,-76.79799706150979
+Hemet,2,33.7475203,-116.9719684
+Hernando,2,28.5710156,-82.4605068
+O'fallon,2,38.7910374,-90.7039107
+Wyandotte,2,39.1090458,-94.767624
+Brownsville,2,25.9140256,-97.4890856
+Douglasville,2,33.7514966,-84.7477136
+New Windsor,2,41.4767605,-74.0237519
+Walker,2,30.6795741,-95.5522823
+Tampa Bay,2,27.6886419,-82.5723193
+Berkeley,2,37.8753497,-122.23963364918777
+Marshalltown,2,42.0442545,-92.9123388
+Arcata,2,40.866517,-124.08284
+Groton,2,41.3506989,-72.0773654
+Henderson,2,32.182598,-95.7893178
+Binghamton,2,42.0987125,-75.9125262
+Corona,2,33.8752945,-117.5664449
+Chevy Chase,2,38.9825225,-77.088219
+Gadsden,2,34.010929,-85.9989596
+St. George,2,12.0535331,-61.751805
+South Carolina,2,33.6874388,-80.4363743
+Junction,2,30.4893555,-99.7720109
+Tavares,2,-31.312225849999997,-51.07099200267679
+Chula Vista,2,32.6400541,-117.0841955
+Fleetwood,2,53.9224847,-3.0329340355325565
+Gurnee,2,42.3702996,-87.9020186
+Union City,2,37.5963232,-122.0816297
+Massapequa Park,2,40.6803785,-73.4551241
+Walnut Creek,2,37.9020731,-122.0618702
+Evans,2,40.3763701,-104.6921874
+Lacey,2,47.0263876,-122.8072257
+Blaine,2,41.9195837,-99.979237
+The Desert,2,48.8989756,-0.8104557833099612
+Frederick,2,39.415779,-77.4127562
+Napa,2,38.2971367,-122.2855293
+Centreville,2,38.84487,-77.43540260778344
+Ellijay,2,34.6950278,-84.4827394
+New Braunfels,2,29.7028266,-98.1257348
+Newburyport,2,42.8125913,-70.8772751
+Dickinson,2,38.8790615,-97.1893341
+Asheboro,2,35.7079146,-79.8136446
+Ottawa,2,45.4211435,-75.6900574
+State College,2,40.7944504,-77.8616386
+Baldwyn,2,34.509544,-88.6353313
+Oceanside,2,33.1958696,-117.3794834
+Yonkers,2,40.9312099,-73.8987469
+East Dublin,2,32.5482221,-82.8718084
+Myrtle Beach,2,33.6956461,-78.8900409
+Lawson,2,39.4383387,-94.2041096
+Terre Haute,2,39.4667025,-87.4139119
+Pennsylvania,2,40.9699889,-77.7278831
+Walla Walla,2,46.0667277,-118.3393456
+Justin,2,33.0848442,-97.2961286
+Delafield,2,43.0610275,-88.4040692
+East Chicago,2,41.8755616,-87.6244212
+Warminster,2,51.215076550000006,-2.1721664384278974
+Fairport,2,43.0993,-77.443014
+Mcallen,2,26.2043691,-98.230082
+Edinburg,2,26.3013982,-98.1624501
+Kalispell,2,48.202158,-114.315321
+Shirley,2,40.796841650000005,-72.87000473997718
+O Fallon,2,47.5075937,6.4807726
+Holt,2,40.0989571,-95.2134565
+Orange Park,2,30.1654707,-81.7016346
+La Porte,2,29.6657838,-95.0193729
+Towson,2,39.396459050000004,-76.61481481790992
+Gary,2,41.6021292,-87.3371372
+Santa Rosa,2,38.4404925,-122.7141049
+Dublin,2,53.3497645,-6.2602732
+Winter Garden,2,28.5656649,-81.5856742
+Marshfield,2,44.6688524,-90.1717987
+Gaylord,2,44.5530201,-94.220531
+Bc,2,55.001251,-125.002441
+Palm Coast,2,29.5541432,-81.2207673
+Jber,2,61.24323785,-149.80988150504618
+Kings Mountain,2,35.2450607,-81.3410516
+Quebec,1,52.4760892,-71.8258668
+Century,1,30.9732384,-87.2638628
+Lawrenceburg,1,38.0372967,-84.8966171
+Highland,1,57.58488045,-4.917646755786513
+Boaz,1,34.2006503,-86.1663655
+Ellington,1,52.331611499999994,-0.2863624357246388
+Port Edwards,1,44.3507979,-89.8654036
+Watts,1,33.9405674,-118.2428485
+Palatka,1,29.6487882,-81.6372111
+Roswell,1,34.02332,-84.360022
+Woolwich,1,51.4826696,0.0623335
+Lenexa,1,38.9697458,-94.7845837
+Markham,1,43.8563707,-79.3376825
+La Vista,1,41.1832679,-96.0324044
+Boyne City,1,45.216675,-85.013942
+Kings Park,1,-31.962161199999997,115.83257156676237
+Johnston,1,41.6731523,-93.6973395
+Washingtonville,1,41.4278716,-74.1659798
+Avon Lake,1,41.510033,-82.0185895
+Winston-Salem,1,36.0998131,-80.2440518
+Lorton,1,38.700202000000004,-77.23953597604464
+Johnson Creek,1,43.076113,-88.7742707
+Altamonte Springs,1,28.6619154,-81.3885899
+Oakland Park,1,26.1723065,-80.1319893
+Ridge Manor,1,28.503496,-82.18306198757628
+Natchitoches,1,31.7606732,-93.0860209
+Carlisle,1,54.8948478,-2.9362311
+New Roads,1,30.7015741,-91.4362242
+Bossier,1,18.2442439,-72.4107934
+Vernon,1,49.0917814,1.4886571
+Ewa Beach,1,21.315603,-158.008804
+St James City,1,26.552068,-82.09829397345612
+Brigham City,1,41.5103717,-112.0155619
+Tiny,1,44.7382893,-80.12709935653204
+Waterbury,1,41.5538091,-73.0438362
+Hubert,1,50.829208,14.23467
+Streetsboro,1,41.239223,-81.345941
+Vienna Va,1,48.2152512,16.3812898
+Verdunville,1,37.8445469,-82.0551283
+Centralia,1,38.5250491,-89.1334037
+Valdosta,1,30.8327022,-83.2784851
+Mount Olive,1,33.681158999999994,-86.88022409259258
+Stoney Stanton,1,52.546970400000006,-1.2803866539772846
+Walkersville,1,39.4817659,-77.3507698
+Okeene,1,36.116148,-98.3170165
+Elkhorn,1,42.6727927,-88.5445447
+Berkeley Ca,1,37.8753497,-122.23963364918777
+Vicksburg,1,32.3528055,-90.8777342
+New Boston,1,33.4598415,-94.4154787
+Central Point,1,42.376782,-122.912721
+Missouri City,1,29.6185669,-95.5377215
+Greene,1,39.3573664,-90.3898985
+Enon Valley,1,40.8547846,-80.4570111
+Marlton,1,39.9005585,-74.93389105589023
+Shelley,1,52.0071487,0.9577423
+Shalimar,1,30.4457544,-86.5791189
+Crystal Lake,1,42.2411344,-88.3161965
+Bayonne,1,43.4933379,-1.475099
+Sunnyvale,1,37.3688301,-122.036349
+Foley,1,30.4065868,-87.6835974
+Kinder,1,51.1449692,5.7414008
+Winter Park,1,28.5977707,-81.3510264
+Dalzell,1,41.3578126,-89.176196
+Webster,1,37.2895151,-92.8792111
+Barnhart,1,38.33981850000001,-90.40676224421566
+Brackettville,1,29.3135346,-100.4157576
+Paragould,1,36.0584021,-90.4973286
+Gladstone,1,-23.8431724,151.256132
+Perris,1,33.7825194,-117.2286478
+Ewing Township,1,46.07170405,-87.29322958541246
+Woodland,1,38.6786109,-121.7733285
+Hastings,1,50.8553888,0.5824703
+Bellflower,1,33.8825705,-118.1167679
+Alpha,1,40.6670439,-75.1573972
+Camp Hill,1,40.2398118,-76.9199742
+Carlsbad,1,33.1580933,-117.3505966
+Maybee,1,42.0043674,-83.5156525
+Forrest,1,40.7519792,-88.4111647
+Arvada,1,39.8005505,-105.0811573
+Copperhill,1,34.9891567,-84.3700976
+Riverton,1,40.6870011,-95.568169
+Pdx,1,45.587132600000004,-122.59277984939183
+New Port Richey,1,28.2441768,-82.7192671
+The Beast,1,39.34015225,-84.26604441391586
+Pinson,1,33.706205,-86.67007895992774
+Solana Beach,1,32.9905597,-117.2691316
+Santa Clarita,1,34.3916641,-118.542586
+Odenton,1,39.0897199,-76.7073534
+Pocahontas,1,42.7262681,-94.6477383
+Butte,1,39.6519275,-121.5858444
+El Centro,1,47.5490251,1.7324062
+Lincolnshire,1,53.1823034,-0.2031208542548153
+Casper,1,42.8501191,-106.325138
+South Gate,1,33.9463456,-118.200981
+Orange City,1,28.9488761,-81.2986741
+St. Augustine,1,29.8946952,-81.3145395
+West Point,1,33.6076186,-88.6503255
+North Richland Hills,1,32.8342952,-97.2289029
+Garnet Valley,1,35.063459449999996,-82.03351047345669
+Holloway,1,51.5572453,-0.1183706
+Phialdelphia,1,0,0
+Hiram,1,33.8756601,-84.7621592
+Billerica,1,42.5584264,-71.268947
+Crossville,1,38.1617133,-88.0653123
+Saint Clair Shores,1,42.4969652,-82.8890965
+New Mexico,1,34.5708167,-105.993007
+Jeromesville,1,40.8042159,-82.1956859
+Oswego,1,41.6834778,-88.3525714
+Etown,1,30.178633,-81.504736
+Tazewell,1,40.5126429,-89.5442084
+Mcminnville,1,45.2100367,-123.194463
+Bangor,1,44.8011821,-68.7778138
+Attica,1,37.9946543,23.79940251269328
+Florissant,1,38.7919683,-90.3227803
+Baden,1,47.6199988,-2.9184744
+Fountain,1,38.682219,-104.7008056
+Del Rio,1,29.3655405,-100.894698
+Westerly,1,41.3775996,-71.8272911
+Struthers,1,41.0543573,-80.5917707
+Port Huron,1,42.9815877,-82.440466
+Pleasant Hall,1,40.0531874,-77.6539211
+Port Angeles,1,48.118146,-123.4307413
+Wakeman,1,41.2545874,-82.3996588
+Rison,1,33.9587511,-92.19396990169759
+Benton,1,45.7162129,-94.0481042
+Central Islio,1,0,0
+Idaho Falls,1,43.4887907,-112.03628
+Interlachen,1,29.6238574,-81.8903684
+Inyokern,1,35.652055000000004,-117.81766295868346
+West Hollywood,1,34.0923014,-118.3692894
+Round Lake,1,43.5405195,-95.4683381
+Spring Grove,1,43.5610145,-91.6359516
+Gorman,1,32.2137484,-98.6706106
+Brighton,1,50.8214626,-0.1400561
+Chalmette,1,29.944195999999998,-89.96446242205948
+Encino,1,34.1591324,-118.5016166
+Brantford,1,43.1408157,-80.2631733
+Saltsburg,1,47.7981346,13.0464806
+Doral,1,25.8195424,-80.3553302
+Sistersville,1,39.564242,-80.9959404
+Surprise,1,33.6292271,-112.3680189
+Newington,1,43.100482,-70.834351
+Ellenton,1,27.5262425,-82.52146279295091
+Parkton,1,39.6409378,-76.6591376
+Streamwood,1,42.0255827,-88.1784085
+Phillips Ranch,1,32.8686123,-96.2206114
+Red Wing,1,44.5624676,-92.5338013
+Bella Vista,1,36.4814641,-94.2732642
+Colton,1,34.0739016,-117.3136547
+Marcus Hook,1,39.8194467,-75.4186608
+Iron Station,1,35.4415237,-81.1561898
+Branford,1,41.2795414,-72.8150989
+Plainview,1,34.1847936,-101.7068417
+Rocky Mount,1,35.9423833,-77.7956949
+Williams,1,48.3629861,-103.4958386
+Weidman,1,43.6875278,-84.9689133
+Liverpool,1,53.4071991,-2.99168
+Merced,1,37.1641544,-120.7678602
+Mount Gilead,1,40.5492265,-82.8274015
+West Bend,1,43.4252776,-88.1834277
+Lake County,1,39.0505411,-122.7776556
+Somerville,1,42.3875968,-71.0994968
+Phx,1,33.43290795,-112.00942180184659
+Limington,1,43.7317442,-70.7108924
+Radcliff,1,37.8403456,-85.9491298
+Trenton,1,40.2170575,-74.7429463
+Spruce Grove,1,50.1303702,-122.9507386
+Pittsford,1,43.090959,-77.515298
+Cleburne,1,35.5298937,-92.0312818
+Pickens,1,34.4630619,-84.4682402
+Garden City,1,37.9716898,-100.8726618
+Fruitland,1,41.356252,-91.1284804
+Carrboro,1,35.9099875,-79.0752876
+Sf,1,37.7790262,-122.419906
+Gates,1,43.152919,-77.71321284913792
+West Lawn,1,40.329676500000005,-75.9938232166565
+Falmouth,1,50.1552197,-5.0688262
+Simcoe,1,42.8372434,-80.3039146
+Long Branch,1,40.3042778,-73.9923596
+Fort Bragg,1,35.142277500000006,-78.99872788691951
+Clinton,1,38.5896187,-89.420064
+Lizella,1,32.8070842,-83.8199072
+Bucyrus,1,40.8083909,-82.9754649
+Belfast,1,54.5964411,-5.9302761
+Texarkana,1,33.44628645,-94.07638067493534
+Kettle Falls,1,48.6105163,-118.0563379
+Arkansas City,1,37.0622562,-97.0388338
+Alberta,1,55.001251,-115.002136
+Warsaw,1,52.2337172,21.071432235636493
+Greenville County,1,34.8550021,-82.3356457
+Maumee,1,41.5628294,-83.6538244
+Santa Barbara,1,34.4221319,-119.7026673
+Forney,1,32.747893,-96.4719289
+Murray,1,44.017855,-95.7615205
+Horseheads,1,42.167019,-76.8205119
+Rogers,1,36.3320197,-94.1185366
+Agua Dulce,1,18.0899541,-94.16236305223826
+North Port,1,27.044224,-82.2359254
+Clermont,1,49.3780921,2.4141907
+Snyder,1,32.7180803,-100.9182313
+University Heights,1,41.6550163,-91.5568354
+Carteret,1,40.5773266,-74.2282005
+Chalfont,1,40.29066735,-75.21070232492798
+Markle,1,40.828669,-85.33867317276142
+Bayville,1,40.9106541,-73.5620689
+Cantonment,1,31.5221005,74.3790353
+Martinsville,1,36.6915262,-79.8725386
+Port Tobacco,1,38.5112633,-77.0204083
+Eunice,1,30.4943669,-92.4176324
+Ecorse,1,42.2444833,-83.145757
+Stoneham,1,42.4802635,-71.0993581
+Guelph,1,43.5460516,-80.2493276
+Selkirk,1,50.146986,-96.880188
+Advance,1,37.1044958,-89.9106494
+Arab,1,37.1551868,9.548341838072488
+Grovetown,1,33.4504157,-82.1981764
+Nichoalsville,1,0,0
+Powhatan,1,37.5420237,-77.9190619
+Newhall,1,41.993096,-91.9677395
+Pingree Grove,1,42.0686367,-88.4134159
+Orfordville,1,42.6278176,-89.2557081
+Port Crane,1,42.1642428,-75.8335265
+Clinton Twp,1,42.5869787,-82.9199212
+Rohnert Park,1,38.3396367,-122.7010984
+China Spring,1,31.6517652,-97.3067348
+Sandpoint,1,48.2765903,-116.5532476
+Poughkeepsie,1,41.7065539,-73.9283672
+Kingwood,1,39.4717557,-79.6833884
+Woolwine,1,36.7898569,-80.2772753
+Alabaster,1,33.2442813,-86.8163773
+Harlingen,1,26.1908241,-97.6959794
+Kendallville,1,41.4414385,-85.2649754
+Wasilla,1,61.5824216,-149.4425638
+South Lyon,1,42.451377,-83.659179
+Barnstable County,1,41.6718684,-70.3499234
+Mississippi,1,32.9715285,-89.7348497
+New Carrollton,1,38.964576449999996,-76.87429259188659
+Hotchkiss,1,38.799707,-107.7195032
+Scranton,1,41.4086874,-75.6621294
+Wise River,1,45.7922414,-112.9495953
+Clanton,1,32.8387371,-86.6294262
+St. Charles,1,38.7877791,-90.6747372
+North Lauderdale,1,26.217305,-80.2258811
+Bentonville,1,36.3728538,-94.2088172
+American Canyon,1,38.1749179,-122.2608044
+Morris,1,33.0738633,-94.7392197
+Saint George,1,12.0535331,-61.751805
+Cinnaminson,1,40.0166151,-74.9999754
+Wahoo,1,41.2111084,-96.6197985
+Galesville,1,44.0816282,-91.3490376
+Mount Angel,1,45.0678032,-122.7996822
+Manitoba,1,55.001251,-97.001038
+Alfred Station,1,42.2697921,-77.7591607
+Daly City,1,37.6904826,-122.47267
+Lake Mary,1,28.756618000000003,-81.33888382214167
+Bennington,1,39.030556,-97.594199
+Teaneck,1,40.8860164,-74.0072568
+Byron,1,-28.61342775,153.47835505252425
+Matthews,1,35.1159532,-80.7224386
+Cumming,1,41.4833235,-93.7624442
+Richmond Virginia,1,37.5385087,-77.43428
+Somis,1,34.2572261,-118.9962124
+Sycamore,1,41.9889173,-88.6867538
+Reseda,1,34.2000784,-118.5369884
+Ponchatoula,1,30.4388041,-90.4414762
+Gray,1,47.4455642,5.5919867
+Tarboro,1,35.8968236,-77.5358049
+Carstairs,1,51.563216,-114.1000016
+Jensen Beach,1,27.22089615,-80.2556790897022
+North Reading,1,42.5750939,-71.0786653
+Highlands,1,56.8,-5
+Trussville,1,33.626629,-86.5549335251678
+Stratton,1,50.8310785,-4.5128919
+Noble,1,51.2130791,-1.5964778
+Ashkum,1,40.8803114,-87.9550405
+Reserve,1,39.976147999999995,-95.56505944468024
+Biddeford,1,43.4925843,-70.4533844
+Lebanon County,1,40.375713,-76.4626118
+Murrells Inlet,1,33.5499183,-79.0430329
+Villa Rica,1,33.732052,-84.9191081
+Lancaster County,1,40.08067,-76.2411283
+Pascagoula,1,30.3646795,-88.5585995
+Flemington,1,40.5130953,-74.8591333
+Buchanan,1,39.6733203,-94.794829
+White Hall,1,32.3270827,-86.7119247
+Far Rockaway,1,40.6053825,-73.7551326
+Emeryville,1,37.8314089,-122.2865266
+Breese,1,53.0005553,11.7892733
+Dunedin,1,-45.8740984,170.5035755
+Sierra Vista,1,31.5455709,-110.2772249
+Barboursville,1,38.4095298,-82.2945923
+Swayzee,1,40.5083719,-85.8255378
+Murrysville,1,40.4284015,-79.697545
+Deatsville,1,32.6081874,-86.3958072
+St.louis,1,38.6529545,-90.24111656024635
+Moorestown,1,39.9670569,-74.9426677
+Foxworth,1,31.238233,-89.868692
+Laguna Woods,1,33.6106076,-117.7249722
+Alexanderia,1,35.851156,-83.5743297
+Taft,1,35.1424671,-119.4565078
+Camby,1,39.661472,-86.3120233
+Dover Air Force Base,1,39.128304799999995,-75.46791931717073
+Broad Brook,1,41.90854915,-72.54116814978696
+Derby,1,52.9212617,-1.4761491
+Farmingdale,1,40.7328811,-73.4458564
+Chelsea,1,51.4875167,-0.1687007
+East Pittsburgh,1,40.3957108,-79.8384391
+Murphysboro,1,37.7644952,-89.3350888
+Baxter,1,36.2820691,-92.3445222
+Lititz,1,40.1571252,-76.3072103
+Ventura,1,34.4458248,-119.0779359
+Chelan,1,43.3448259,0.5440997
+Fajardo,1,18.3278026,-65.65618322074886
+Ferrelview,1,39.3128277,-94.6662561
+Theodore,1,51.4234709,-102.92017097752387
+Clinton Township,1,42.5869787,-82.9199212
+Selbyville,1,38.46612835,-75.23679054479234
+Tinton Falls,1,40.2890734,-74.0927967
+Pacoima,1,34.2625025,-118.427027
+Cullman,1,34.1335332,-86.8779268
+Saint Louisville Ohio,1,40.1728428,-82.4187671
+Oak Ridge,1,36.0103562,-84.2696449
+Merrill,1,40.7690057,-111.8886667
+Wixom,1,42.5247729,-83.5363339
+Chimes,1,51.5454448,-0.4764721469945099
+Verona,1,45.4384958,10.9924122
+Plattsburgh,1,44.69282,-73.45562
+Granger,1,41.7610984,-93.8243925
+Hattiesburg,1,31.3271189,-89.2903392
+Stendal,1,52.6050782,11.8594279
+Tewksbury,1,42.6106479,-71.2342248
+La Verne,1,34.1008426,-117.7678355
+Hawthorne,1,33.9188589,-118.3483256
+Hillsborough Township,1,40.498516,-74.69516247480117
+Roslyn Heights,1,40.77691645,-73.63341348711295
+Lake City,1,44.4478474,-92.2678663
+Winslow,1,35.0241874,-110.6973572
+Elkmont,1,34.9289743,-86.9738959
+Winnsboro,1,32.9573449,-95.2902224
+Sanger,1,33.3631706,-97.1739028
+Atoka,1,34.383855,-96.1289831
+Yuma,1,32.665135,-114.47603157249804
+Crescent City,1,41.8528065,-124.14986198309553
+Dothan,1,31.2237434,-85.3933906
+Santaquin,1,39.971452,-111.77788695780157
+Clarence,1,41.8865109,-91.057701
+Denton,1,33.1838787,-97.1413417
+Channahon,1,41.4294753,-88.2286735
+Egg Harbor Township,1,39.3820672,-74.6171489
+West Sacramento,1,38.5804609,-121.530234
+Exton,1,40.02985865,-75.62897763847262
+Alum Bank,1,40.1806336,-78.6136291
+Moneta,1,37.1812537,-79.6172536
+Sun Prairie,1,43.1834579,-89.2134359
+Bokeelia,1,26.700581,-82.1721969523008
+Pinetop,1,40.6628756,-75.3754582
+Brattleboro,1,42.8507588,-72.5572913
+Hodges,1,34.3272554,-87.9268739
+Hammondsport,1,42.4079347,-77.2236302
+High Ridge,1,38.4589432,-90.5365126
+Grosse Pointe Park,1,42.3816896,-82.9313655
+Daytona Beach,1,29.2108147,-81.0228331
+Novelty,1,40.0125389,-92.2082381
+Arimo,1,42.559917,-112.1713544
+Negaunee,1,46.499102,-87.611803
+Mcleansboro,1,38.0933811,-88.5356076
+Millsboro,1,38.5915023,-75.2913018
+Bellefonte,1,38.4925809,-82.6901626
+Wahiawa,1,21.500624100000003,-158.0166720181598
+West Haven,1,41.273250149999996,-72.9612374210589
+Bozeman,1,45.6794293,-111.044047
+Rio Linda,1,38.6873975,-121.4593775259687
+Floresville,1,29.1335781,-98.1561192
+Lynn,1,33.1474257,-101.812592
+Norwich,1,52.628606,1.29227
+Storrs,1,41.80564555,-72.25413294148728
+Fort Payne,1,34.4442547,-85.7196893
+Sutherlin,1,43.3896628,-123.3123598
+Mashpee,1,41.6484421,-70.4811383
+Bell Gardens,1,33.9694561,-118.1503953
+Wurtsboro,1,41.5767603,-74.4871031
+Schenevus,1,42.550394,-74.82514487524557
+Fort Leonard Wood,1,37.701139999999995,-92.16933029454009
+Doylestown,1,40.3100446,-75.1304588
+El Segundo,1,33.917028,-118.4156337
+New Richmond,1,48.1651194,-65.8655584
+Florence,1,43.7698712,11.2555757
+Montevallo,1,33.1006746,-86.8641558
+West Columbia,1,29.1438582,-95.6452249
+Ciudad Juarez,1,31.7097961,-106.455581
+Henagar,1,34.635084,-85.7671936
+Pingree,1,47.163328,-98.9070537
+Gardena,1,33.8963593,-118.3053037
+Palm Beach,1,26.6279798,-80.4494174
+Kearney,1,40.4906216,-98.9472344
+Killen,1,34.8628637,-87.5375253
+Stevens Point,1,44.5229223,-89.574111
+Fort Leavenworth,1,39.36038775,-94.92530956365255
+Fort Knox,1,37.897655150000006,-85.90385212370151
+Laughlin,1,35.1677771,-114.5730208
+Clemson,1,34.6850749,-82.8364111
+Midland County,1,31.83688,-102.0103767
+Berkshire County,1,42.3999954,-73.2322639
+Rancho Cucamonga,1,34.1033192,-117.5751735
+Boyertown,1,40.3337075,-75.6374083
+Lakeville,1,44.650051,-93.2432791
+The Colony,1,33.0890094,-96.8863922
+Linton,1,46.266657,-100.232892
+Proctorville,1,38.438232,-82.3811273
+Laingsburg,1,42.8915618,-84.3496697
+Hedgesville,1,39.5534303,-77.9949993
+Brooksville,1,28.5552719,-82.3878709
+Taylors,1,34.90869135,-82.29585133163584
+Jeffersonville,1,38.2770227,-85.7371604
+Farmington Hills,1,42.4853125,-83.3771553
+San Pablo,1,-23.5506507,-46.6333824
+Donna,1,26.1702082,-98.0522376
+Tomball,1,30.0971621,-95.6160549
+Chatham-kent,1,42.41833,-82.0898417
+Wilkesboro,1,36.145965,-81.1606401
+Pinehurst,1,30.1071543,-93.7746117
+Springbrook,1,42.1639953,-90.4770365
+Waxahachie,1,32.3944908,-96.8439365
+Apache Junction,1,33.4150485,-111.549577
+Rossville,1,39.13611,-95.951656
+B'ham,1,21.6747266,76.6260773
+Northville,1,42.4310806,-83.4832262
+Jayess,1,31.3648962,-90.2059233
+Nashua,1,42.7656251,-71.4677032
+West Saint Paul,1,49.997147,-97.077942
+Cabot,1,34.974532,-92.0165336
+Carrollton,1,32.9537349,-96.8902816
+San Manuel,1,15.3770307,-87.89804946049519
+Wytheville,1,36.9479966,-81.0869747
+Hebron,1,31.528902,35.0944873
+Lafayette Parish,1,30.2141462,-92.0710624
+Huntington Station,1,40.84766075,-73.4038824238588
+Mason City,1,43.1535728,-93.2010367
+Lusby,1,38.410358,-76.4546264
+Homestead,1,25.4718946,-80.4759905
+Sorrento,1,40.624906,14.374836
+Ossining,1,41.1609095,-73.87816187585699
+Hot Springs,1,34.5038393,-93.0552437
+Goleta,1,34.4358295,-119.8276389
+League City,1,29.5074538,-95.0949303
+Kirkland,1,47.6859573,-122.1920249
+Port Washington,1,40.8254914,-73.68128200830327
+Snow Hill,1,35.4515504,-77.6810859
+Lithonia,1,33.7123305,-84.1051939
+Downers Grove,1,41.7936822,-88.0102281
+Tennille,1,32.9359886,-82.8115273
+Cold Spring,1,45.4557973,-94.4288849
+Danvers,1,42.5750946,-70.9300507
+Huyton With Roby,1,53.413340000000005,-2.8445218693550665
+Paradise,1,36.1150858,-115.1734142
+Star,1,-14.6909792,-75.1446041
+Harold,1,37.536766,-82.6332106
+Bethel Park,1,40.3275697,-80.0394977
+Tigertown,1,33.7137132,-95.8044106
+Nuevo,1,33.8056345,-117.13956015339622
+Billings,1,45.7874957,-108.49607
+Stamford,1,41.072089,-73.54443614832871
+Springville,1,42.0594453,-91.4426703
+Vaughan,1,43.7941544,-79.5268023
+Indian Trail,1,35.0768141,-80.6692352
+Windermere,1,54.3794828,-2.9061994
+Ashburn,1,39.030019100000004,-77.46964646557657
+Crownsville,1,39.0284438,-76.6013536
+Waldorf,1,50.4855665,7.2293555
+Yazoo City,1,32.8550965,-90.4056469
+Port Charlotte,1,26.982419999999998,-82.10688734598534
+Clifton Heights,1,39.9292791,-75.2962972
+Roxana,1,38.8482602,-90.0768875
+Branson,1,36.6411357,-93.2175285
+Souderton,1,40.3106949,-75.32025195440616
+North Miami Beach,1,25.9331488,-80.1625463
+Van Nuys,1,34.1866193,-118.4486669
+Natural Bridge,1,34.09066815,-87.60089077211438
+Euharlee,1,34.1448193,-84.9329986
+Elkhart,1,41.6819935,-85.9766671
+Valencia,1,39.4697065,-0.3763353
+Loris,1,34.0562812,-78.8903044
+Tega Cay,1,35.024312,-81.0278546
+Sandusky,1,41.4561002,-82.7115813
+Andale,1,37.790567,-97.629492
+Molino,1,10.6284107,-72.87309324366868
+Foster City,1,37.5600336,-122.2688522
+Patton,1,34.1358439,-117.2239298
+Holliday,1,33.8162095,-98.6950596
+Grand Rapids - Itasca County Airport Gpz,1,47.20928575,-93.51260528221943
+Bonnie,1,38.2028273,-88.9033993
+West Springfield,1,42.105237,-72.6213712
+Tidewater,1,37.8551367,-76.6985687
+Powhatan Point,1,39.860075,-80.815368
+Bigfork,1,47.744387,-93.654085
+Fleming Island,1,57.7904509,-136.3199143
+Hayward,1,37.6688205,-122.080796
+Duenweg,1,37.0836716,-94.4135565
+Nunica,1,43.0797424,-86.0672715
+Bellaire,1,29.7057858,-95.4588299
+Port Allen,1,30.4521351,-91.2101081
+Canal Winchester,1,39.842920500000005,-82.81594617222837
+Dixon,1,41.8425197,-89.4814291
+Mauldin,1,34.77873,-82.310119
+Star Prairie,1,45.1969094,-92.5307537
+Waltham,1,42.3756401,-71.2358004
+Bayamon,1,18.344958249999998,-66.16837400269127
+Rumford,1,44.554271,-70.551453
+Hopkinsville,1,36.8657651,-87.4889532
+Runnemede,1,39.8523358,-75.0679498
+Swansboro,1,34.6896728,-77.1232174
+Mission,1,26.2159066,-98.3252932
+Oak Island,1,44.5135888,-64.2931824
+Isom,1,37.1878764,-82.8987718
+East Machias,1,44.739244,-67.3899904
+Youngsville,1,30.0996471,-91.9901206
+Taylorsville,1,40.6677096,-111.9385867
+Cape Girardeau,1,37.3034933,-89.5230357
+Bethel,1,60.7922222,-161.7558333
+Hoover,1,33.4060825,-86.78985769796296
+Brimingham,1,34.8095424,-88.2588869
+Eclectic,1,32.6354093,-86.0344079
+Olive Branch,1,34.9617605,-89.8295315
+Punta Gorda,1,26.9297836,-82.0453664
+Rosthern,1,52.663891,-106.335297
+Holyoke,1,42.2071434,-72.60765
+Ogden,1,41.2230048,-111.9738429
+Supply,1,6.6271646,-58.201842544760524
+Stl,1,-45.7255555,168.2936808
+Encinitas,1,33.0369867,-117.2919818
+Wilm.,1,48.5855931,7.7475134
+Olmito,1,26.0217447,-97.5341534
+Dripping Springs,1,30.1902067,-98.0866781
+Long Valley,1,40.78168135,-74.75923279813415
+Highlands Ranch,1,39.5497243,-104.9695655
+Roscoe,1,32.4399224,-100.54072785093715
+Maryland Heights,1,38.7150511,-90.435999
+Woodbridge Township,1,40.5498525,-74.2874185506135
+Pageland,1,34.7728831,-80.3921893
+Hollsopple,1,40.2125762,-78.9289137
+Manassas,1,38.7509488,-77.4752667
+Magnolia,1,30.2093794,-95.7507815
+Laguna Beach,1,33.5426975,-117.785366
+Deerfield Beach,1,26.318342,-80.0996306
+Cookeville,1,36.1623886,-85.4997057
+Ephrata,1,40.1799111,-76.1789242
+Catonsville,1,39.26099215,-76.74554777654639
+White Pine,1,39.5298185,-114.8899563
+Durango,1,24.833333,-104.833333
+Kutztown,1,40.5173165,-75.7774177
+Clyde,1,32.4059605,-99.4936912
+Bobcaygeon,1,44.5372969,-78.5444995
+St Cloud,1,48.8437412,2.219344
+La Vergne,1,45.9611662,-0.5630966
+Xenia,1,38.6358808,-88.6347744
+Loves Park,1,42.3200189,-89.0581621
+White Plains,1,41.0339862,-73.7629097
+Cataula,1,32.655414,-84.8685418
+Saratoga Springs,1,43.0821793,-73.7853915
+Bauxite,1,34.5556489,-92.5212702
+Downtown Harrisburg,1,35.3258352,-80.6455137
+Cathedral City,1,33.822998049999995,-116.4668702427116
+Crown Point,1,41.4169806,-87.3653136
+Millinocket,1,45.657728,-68.709869
+Grant,1,45.9358795,-96.0272071
+Cayce,1,33.9657091,-81.0739827
+Englishtown,1,40.2973319,-74.3582041
+Bloomingburg,1,41.5542603,-74.4396014
+Houstom,1,0,0
+Pen Argyl,1,40.8687064,-75.2549025
+Vienna,1,48.2083537,16.3725042
+Layton,1,41.0751048,-111.9741925
+Elma,1,43.2466362,-92.4360102
+Pecos,1,30.7857437,-102.8065415
+Madeira Beach,1,27.7980814,-82.7973247
+Prior Lake,1,44.7133271,-93.4226873
+Cave Springs,1,36.2634109,-94.2318728
+Randleman,1,35.8179143,-79.8030873
+Queen Anne,1,51.513689400000004,-0.09992857380016346
+Tallmadge,1,41.1014616,-81.4417989
+Arleta,1,42.8476753,-1.5868348
+Westlake,1,32.991226,-97.1943701
+Turlock,1,37.4946568,-120.8465941
+Ada,1,38.8398935,-83.5051704
+Strongsville,1,41.3144733,-81.83511
+Owens Cross Roads,1,34.5881461,-86.4588768
+San Luis Obispo,1,35.3540209,-120.3757163
+Weatherby Lake,1,39.2377801,-94.6960699
+Metuchen,1,40.5431598,-74.3632049
+Berea,1,41.3661614,-81.8543026
+Enid,1,36.3967623,-97.8791341
+Idabel,1,33.8956647,-94.8263281
+Alaska,1,64.4459613,-149.680909
+Greenwich,1,51.4820845,-0.0045417
+Barre,1,47.4042066,6.1789917
+Glassport,1,40.3247918,-79.8922712
+Porterville,1,36.06523,-119.0167679
+Farmington,1,44.6402434,-93.1435497
+Oak Park,1,41.8878145,-87.7887615
+La Mesa,1,33.4151117,-111.8314792
+Ottumwa,1,41.0200145,-92.4112963
+Rosiclare,1,37.4236626,-88.3461483
+Pittston,1,41.3259134,-75.7893604
+Burien,1,47.469918,-122.3485274
+Albion,1,42.1124866,-92.9885339
+Bonita Beach,1,29.9093828,-83.6687599
+Cheboygan,1,45.4417481,-84.4768486
+Sheffield Lake,1,41.48754,-82.101537
+Chester Springs,1,40.0951038,-75.6168681
+Ravenna,1,44.364060699999996,12.059009490863945
+East Meadow,1,40.721929599999996,-73.55839696869465
+Seminole,1,28.7225829,-81.2353683
+Fairview Park,1,41.4461727,-81.8526519
+Hallettsville,1,29.4438528,-96.9410929
+Marathon Shores,1,24.7257143,-81.0484849
+Elkin,1,36.2440516,-80.8507344
+South Otselic,1,42.6467349,-75.7813028
+Milford Center,1,40.1786706,-83.4354782
+Catoosa,1,36.188987,-95.745817
+Alton,1,38.8908583,-90.1843091
+Red Oak,1,41.0095189,-95.228247
+Inkom,1,42.7963041,-112.2541374
+Arkansas,1,35.2048883,-92.4479108
+Lake Milton,1,41.0995019,-80.9703684
+Smiths Station,1,32.5401394,-85.0985474
+Prescott,1,34.5399962,-112.4687616
+Hannibal,1,39.7082498,-91.3587413
+Marbury,1,53.0068826,-2.6553661
+Pomona,1,34.0553813,-117.7517496
+Duncan,1,34.5023029,-97.9578129
+West Salem,1,38.5208829,-88.0047565
+Tuftonboro,1,43.696673,-71.222305
+Ponca City,1,36.703647,-97.081898
+Pikeville,1,37.4792672,-82.5187629
+Dresden,1,51.0493286,13.7381437
+Johnson City,1,36.3134398,-82.3534728
+Harrison,1,32.5233959,-94.3982158
+Pennsboro,1,39.2850799,-80.9684422
+Sour Lake,1,30.1402122,-94.4110239
+Pottsboro,1,33.759271,-96.6694402
+Mount Wolf,1,40.0628918,-76.7042458
+Aguada,1,6.179839449999999,-73.52775874148102
+Sherwood,1,34.8150907,-92.2243153
+Sterling,1,31.8151416,-101.0452671
+Inkster,1,42.2942045,-83.3099303
+Chimacum,1,48.0146577,-122.770452
+Rochelle,1,46.1591126,-1.1520434
+Saint Johns,1,29.9032284,-81.4145468
+Carthage,1,32.1570412,-94.338114
+New Berlin,1,29.4641219,-98.1011187
+Herriman,1,40.5140894,-112.0328198
+Vergennes,1,37.902273,-89.3356432
+Rockville Centre,1,40.6574186,-73.6450664
+Shasta Lake,1,40.6799638,-122.3626507
+Millersville,1,35.3038485,-118.4578633
+Alliance,1,42.0971897,-102.8707145
+Hixson,1,35.1414606,-85.1746774
+Brigantine,1,39.4101171,-74.3645906
+Acworth,1,34.0659329,-84.6768796
+Conroe,1,30.3118769,-95.4560512
+Palm Beach Gardens,1,26.8233946,-80.1386547
+Bloomingdale,1,41.9575285,-88.0809036
+Stuart,1,27.197983,-80.2519175
+Fitchburg,1,42.5903661,-71.8119837
+Ft Lauderdale,1,26.1223084,-80.1433786
+Lilburn,1,33.8901036,-84.1429719
+Nitro,1,38.417919499999996,-81.84361448523134
+Six Mile,1,26.1309933,91.8071854
+Livermore,1,37.6820583,-121.7680531
+Sunnyside,1,47.8595825,-53.9209544
+Port Chester,1,41.0017643,-73.6656834
+Warrenton,1,38.7135498,-77.795367
+Bailey,1,34.0349194,-102.8149372
+East Bay,1,46.0193462,-60.372133
+New York City,1,40.7127281,-74.0060152
+Southworth,1,47.5107223,-122.5038079
+Haysville,1,37.5644615,-97.3522675
+Ferndale,1,40.576241,-124.263944
+Arnold,1,38.4226711,-90.3758287
+Reynolds Station,1,37.3762658,-90.9659462
+Gloucester,1,51.8653705,-2.2458192
+Basking Ridge,1,40.7064088,-74.5492725
+Milford,1,41.2226155,-73.04622662165758
+Endicott,1,42.098408,-76.0493684
+Ludington,1,43.9555406,-86.4477416
+Stafford,1,52.8063157,-2.1163818
+Topsfield,1,42.6375935,-70.9494966
+Md,1,39.5162234,-76.9382069
+Woodruff,1,35.1714574,-91.2229851
+Euless,1,32.8457865,-97.0667142473263
+Elgin,1,42.03726,-88.2810994
+South Houston,1,29.663008,-95.2354902
+Paramus,1,40.9452911,-74.0735899
+Kuna,1,43.459102599999994,-116.28681481170506
+Saint Bernard,1,47.15684,5.01564
+Belton,1,31.0560132,-97.464453
+Wimberley,1,29.9976807,-98.0987896
+Safford,1,32.8339546,-109.70758
+Collins,1,41.9028032,-93.3063381
+Dundee,1,56.4605938,-2.97019
+Trappe,1,40.1996931,-75.4779074
+Mount Holly,1,43.45242,-72.824936
+Penfiled,1,0,0
+Valliant,1,34.0023293,-95.0938386
+Tom Bean,1,33.5201081,-96.4838749
+Venice,1,45.4371908,12.3345898
+Fort Stewart,1,31.8694349,-81.6077657
+Topsham,1,50.6850732,-3.4658063
+Cassville,1,36.6770111,-93.868811
+Satsuma,1,31.45895615,129.95887482507425
+Indio,1,33.743764999999996,-116.22331524966393
+Perry,1,38.0772859,-89.3760499
+Saco,1,42.9880406,0.5631324
+Fairview,1,40.6333724,-90.1637318
+Wheeling,1,42.138889,-87.9310944
+Orono,1,44.883607,-68.672791
+Chino Hills,1,33.9926803,-117.760056
+Fillmore,1,43.6466588,-92.0636359
+Valdese,1,35.7431562,-81.5633738
+Sesser,1,38.0917168,-89.0503512
+Breaux Bridge,1,30.2735323,-91.8992837
+Mcville,1,47.7638843,-98.1773206
+Iowa,1,41.9216734,-93.3122705
+Preston,1,53.7593363,-2.6992717
+Mountain View,1,37.3893889,-122.0832101
+Warwick,1,52.2814519,-1.5815742
+Langley Afb lfi,1,37.08751425,-76.35722238652752
+Sunset Beach,1,33.7179231,-118.0706056
+Southside,1,55.944427,-3.1837817
+Delaware County,1,39.9194117,-75.4001639
+Winter Springs,1,28.6987064,-81.3054759
+Harris,1,29.8119769,-95.3741247
+Amsterdam,1,52.3727598,4.8936041
+Perth Amboy,1,40.5067723,-74.2654234
+Munster,1,52.307621600000004,-8.570897276292667
+Kashin,1,57.361755,37.611454
+Nassau,1,25.0783456,-77.3383331
+Elmhurst,1,41.8994745,-87.9403418
+Revere,1,42.4084302,-71.0119948
+Clarksburg,1,39.2806451,-80.3445341
+Bastrop,1,30.0541116,-97.3887764
+Hometown,1,41.731246,-87.7309534
+Nokomis,1,51.510452,-105.008698
+Junction City,1,39.0286093,-96.8313978
+Webb City,1,37.1435741,-94.4634702
+Hewitt,1,31.4623065,-97.1957023
+Dunbar,1,56.0021385,-2.5158237
+Garner,1,43.1024603,-93.6018782
+Maryland,1,39.5162234,-76.9382069
+British Columbia,1,55.001251,-125.002441
+New Hope,1,45.0347176,-93.3861037
+Orchard Park,1,42.7670376,-78.7435517
+Colville,1,48.5465695,-117.905537
+Muscatine,1,41.4776121,-91.1210053
+Slinger,1,43.3333862,-88.2857631
+Dinuba,1,36.5432837,-119.3870656
+Haleyville,1,34.226488,-87.6214133
+Claremont,1,34.0966764,-117.7197785
+Lutz,1,43.4367,1.7835
+Dearborn Heights,1,42.3369816,-83.2732627
+Linthicum Heights,1,39.2023383,-76.655339
+Melrose Park,1,41.900299,-87.8569745
+Dana Point,1,33.4669721,-117.6981075
+Ingleside,1,27.876615,-97.2098831
+Okmulgee,1,35.6234738,-95.960341
+Kimball,1,41.1881305,-103.6997645
+Mill Hall,1,41.10729,-77.48443
+Provo,1,40.2338438,-111.6585337
+Collinsville,1,38.6703267,-89.9845476
+Glen Allen,1,37.316934,-90.02781236389168
+Kenmore,1,47.7573202,-122.2440148
+Waterville,1,44.5520105,-69.6317121
+Dunkirk,1,51.0347708,2.3772525
+Point Comfort,1,28.6797169,-96.5602537
+Middle Amana,1,41.7955624,-91.8996227
+Roxboro,1,36.3937519,-78.9827881
+Costa Mesa,1,33.6633386,-117.903317
+Lula,1,40.470364,9.486435
+Dubuque,1,42.5006217,-90.6647967
+Sackets Harbor,1,43.946171,-76.119093
+Easely,1,34.357758,-92.939164
+Cedar Rapids,1,41.9758872,-91.6704053
+Martin,1,32.2675039,-101.9190317
+Seguin,1,29.5688411,-97.9647269
+West Mifflin,1,40.3634026,-79.8664375
+Tigard,1,45.4307473,-122.771933
+Iowa City,1,41.6612561,-91.5299106
+Exeter,1,50.7255794,-3.5269497
+Inman,1,38.2319537,-97.7733809
+Onalaska,1,30.805746,-95.1163261
+Jefferson City,1,38.577359,-92.1724265
+Cedar Grove,1,36.7907744,-118.6703779
+Cheyenne,1,41.139981,-104.820246
+Maylene,1,33.2034492,-86.861656
+Groves,1,29.9482695,-93.9171155
+Rice Lake,1,45.5027976,-91.7331646
+Grove City,1,45.1505185,-94.6830533
+Kingstree,1,33.6676643,-79.8306265
+Kitchener,1,43.451291,-80.4927815
+Little Ferry,1,40.8528777,-74.0420848
+Ramsey,1,45.0165728,-93.0949501
+Pompano,1,28.0450257,-82.6995198
+Harvard,1,42.422241,-88.6137101
+Baldwin City,1,38.775007,-95.1863603
+Sparta,1,37.08114525,22.42486178272022
+Roebling,1,40.1159436,-74.7862734
+Raymond,1,46.9707059,2.6854848
+Apollo,1,40.5814546,-79.5664333
+Pittsburg,1,40.4416941,-79.9900861
+Sandown,1,50.6613306,-1.150346505454647
+St Charles,1,38.7877791,-90.6747372
+Canaan,1,43.647007,-72.013321
+Pontotoc,1,34.2478831,-88.998673
+Citrus Heights,1,38.7071247,-121.2810611
+Lakewood Township,1,41.8520295,-75.3812888
+Colo,1,38.7251776,-105.607716
+Eden,1,36.4884715,-79.7667026
+Maitland,1,-32.708177,151.52684373398523
+Eldridge,1,41.6580864,-90.5845823
+Harrisonville,1,38.655124,-94.3471072
+Dillsburg,1,40.1109413,-77.0358059
+Marengo,1,32.201002,-87.7569365
+Caribou,1,42.780196,-111.6052607
+South Brunswick Township,1,40.404123049999995,-74.56297792956349
+Havre De Grace,1,39.5489964,-76.0914718
+Monroe County,1,38.2722313,-90.1792484
+Valley City,1,46.923313,-98.003155
+Du Bois,1,40.034722,-96.048335
+Camas,1,37.4020115,-6.0331571
+Mill Run,1,38.1620784,-78.4789006
+Stoughton,1,42.9167389,-89.2178997
+Daleville,1,31.2806442,-85.69060439514504
+Sherman,1,36.2452294,-101.8858689
+Richland Hills,1,32.8159623,-97.2280695
+Bountiful,1,40.8894611,-111.8804817
+Rowland Heights,1,33.9761238,-117.905339
+Ypsilanti,1,42.2410562,-83.613055
+Cedartown,1,34.0124425,-85.2559398
+Pearl,1,32.2745912,-90.1320311
+Reynolds,1,37.3762658,-90.9659462
+Painted Post,1,42.16396,-77.09379534881683
+Great Bend,1,38.3625063,-98.7804087
+Brick,1,52.443165,-9.6326147
+Nassau County,1,40.7430237,-73.56882214900722
+Punxsutawney,1,40.9436303,-78.971078
+Folsom,1,38.6779591,-121.1760583
+La Grange Park,1,41.8333646,-87.8677324
+Granbury,1,32.453452999999996,-97.79047146109397
+Locust Valley,1,40.8757712,-73.5971927
+Avenel,1,40.5848314,-74.27301614355616
+Largo,1,27.9094665,-82.7873244
+Sebring,1,27.4957453,-81.4410425
+Browns Mills,1,39.9721545,-74.56933007670057
+Coon Rapids,1,45.1728923,-93.3023898
+Belvidere,1,42.2579991,-88.841734
+North Augusta,1,33.520849999999996,-81.96696923114902
+Stopover,1,37.5159411,-82.0912401
+Brookline,1,42.3317642,-71.1211635
+Bostob,1,0,0
+Slippery Rock,1,41.0639506,-80.0564468
+Hudson Valley,1,41.31611085,-74.12629189225156
+Granville,1,48.8376284,-1.5959213
+La Luz,1,-23.53512225,-46.63539301511077
+Summit,1,39.6070951,-106.0636654
+Blue Springs,1,39.017316,-94.282265
+Ellenville,1,41.7170379,-74.39571
+Rosepine,1,30.9199148,-93.2823858
+Hypoluxo,1,26.5665166,-80.0535271
+Mandeville,1,49.2206407,1.0116837
+Cohutta,1,34.9595209,-84.9527235
+Spenard,1,61.1886111,-149.9063889
+Red House,1,47.6431389,-58.6339226
+Jefferson,1,29.834772,-94.1704496
+Santiago,1,-33.4377756,-70.6504502
+Cork,1,51.897077,-8.4654674
+La Crosse,1,43.8014053,-91.2395429
+Logan,1,40.1075089,-89.3768539
+Chicago Ridge,1,41.7014217,-87.7792196
+Mohnton,1,40.2859255,-75.9843804
+Saint Cloud,1,48.8437412,2.219344
+Burton,1,52.802742,-1.629917
+Tucson Estates,1,32.2014115,-111.16966943922493
+Woodford Halse,1,52.1706055,-1.2066886
+Ridgeville,1,34.0556522,-86.1021968
+Blissfield,1,41.8325487,-83.8624411
+Gladewater,1,32.5365333,-94.9427169
+Talbott,1,38.9770471,-80.0134107
+Mclean,1,40.4631789,-88.8196613
+Cermont,1,0,0
+Buffolo Grove,1,-20.2902882,-50.2545359
+Maysville,1,38.6411854,-83.744365
+Roosevelt,1,48.3069516,-104.9709901
+Lima,1,-12.0621065,-77.0365256
+Bryant,1,40.4661513,-90.0917851
+Beacon,1,41.504879,-73.9696822
+Sale Creek,1,35.3822915,-85.1088448
+Rainier,1,46.0889178,-122.9360177
+Rolla,1,13.84850035,77.0985132806483
+Thomaston,1,40.7862124,-73.7137421
+Reddick,1,29.3666393,-82.1973184
+St. Clair Shores,1,42.4969652,-82.8890965
+Qulin,1,36.5958908,-90.2473247
+Cobb,1,51.213149,-1.6042075
+Menifee,1,33.6864432,-117.1770437
+Ludowici,1,31.7097964,-81.7430846
+North Platte,1,41.1238873,-100.7654232
+Crandon,1,45.571907,-88.902892
+Lake Walesl,1,0,0
+Christiansburg,1,37.1298517,-80.4089389
+Tompkinsville,1,36.7022797,-85.6916396
+Mondovi,1,44.3900282,7.8204718
+Goodlettsville,1,36.334911500000004,-86.70533913302022
+Wayland,1,41.1477833,-91.661307
+Gorham,1,37.718384,-89.4859292
+Middleboro,1,41.8931576,-70.9111517
+Lassen County,1,40.7685579,-120.730998
+Denison,1,33.7556593,-96.536658
+Cuddebackville,1,41.4673154,-74.5937719
+Fort Pierre,1,44.35352,-100.373824
+Yigo,1,13.535204499999999,144.89715694673106
+Freeland,1,46.6775057,-63.9629222
+Indian Orchard,1,42.1584269,-72.4995308
+China Lake,1,35.6507888,-117.66173
+Bothell,1,47.7598697,-122.2068288
+Springdale,1,36.1867442,-94.1288142
+Rockingham,1,43.1800206,-72.50060298545702
+Hoschton,1,34.096496,-83.7612839
+Olney,1,33.3711244,-98.7566946
+West Valley,1,40.8361755,-79.4230981
+Grayslake,1,42.3433518,-88.0412192
+Ridgewood,1,40.9796683,-74.1194403
+Rescue,1,38.7116667,-120.9513889
+Norristown,1,40.121497,-75.3399048
+Peterstown,1,37.3973437,-80.7992431
+Dumont,1,-21.2391417,-47.9747665
+Rising Sun,1,38.9495047,-84.853838
+Stearns,1,45.535326,-94.6139422
+Torrance,1,33.8358492,-118.3406288
+Kilgore,1,32.3860733,-94.8758518
+Lidgerwood,1,46.075516,-97.151755
+Brandenburg,1,52.8455492,13.2461296
+Alta Loma,1,34.122887,-117.5985775
+Guyton,1,32.3363045,-81.3914992
+Hackettstown,1,40.8538944,-74.8291638
+Summertown,1,51.7774778,-1.26491
+Azusa,1,34.1338751,-117.9056046
+Winterville,1,33.9670589,-83.2782101
+Geneva,1,46.2017559,6.1466014
+Mpls,1,47.1113557,37.6173092
+Caledonia,1,42.369463,-88.8926041
+Petersburg,1,59.917857350000006,30.380619357025516
+North Attleborough,1,41.9834324,-71.3328328
+Peculiar,1,38.7145481,-94.4611204
+Sabin,1,46.779685,-96.653133
+Tallee,1,46.2117192,-0.0688641
+Chetek,1,45.3141273,-91.6510007
+Hartville,1,37.2508838,-92.5104447
+Indpls,1,0,0
+Nevada,1,39.5158825,-116.8537227
+Kamloops,1,50.6758269,-120.339415
+King,1,33.588178,-100.2178972
+Grosse Pointe,1,42.3861485,-82.9118591
+Indianapollis,1,0,0
+Huntersville,1,35.4108278,-80.8429304
+Ar,1,-34.9964963,-64.9672817
+Reisterstown,1,39.4586723,-76.81853758947369
+Bruceton Mills,1,39.659228,-79.64058670391476
+Rexford,1,39.471671,-100.743482
+Clarksville,1,36.5277607,-87.3588703
+Monticello,1,42.617236,8.9546269
+Shep,1,32.156523,-100.1192618
+Hudson Falls,1,43.300697,-73.586082
+Township Of Wales,1,42.9439405,-82.68204756924891
+V As Ndergrift,1,0,0
+Hazel Crest,1,41.571713,-87.6945746
+Tuskegee,1,32.4240286,-85.6916195
+Lyons,1,41.811108,-87.8232695
+Gig Harbor,1,47.3259697,-122.5878659
+Bend,1,44.0581728,-121.3153096
+Batesville,1,35.769799,-91.6409722
+North Highlands,1,38.6710975,-121.38795381804641
+Williamstown,1,38.6381245,-84.5604977
+North Fond Du Lac,1,43.8113769,-88.4834419
+Hallandale Beach,1,25.9812025,-80.148379
+Wb,1,22.9964948,87.6855882
+Orient,1,21.82707225,83.90998722276453
+Belle Vernon,1,40.1250725,-79.8664356
+Billericay Cm12 0sp,1,51.6317565,0.41560392100524274
+Plainsboro,1,40.3334409,-74.6004341
+Parma Heights,1,41.3900518,-81.7595769
+Burleson,1,30.4764878,-96.6353488
+Grafton,1,-29.69125,152.9333435
+Cartersville,1,34.1650972,-84.7999383
+Storrs Mansfield,1,41.80564555,-72.25413294148728
+Sanleon,1,0,0
+Wooster,1,40.7980976,-81.9397733
+Maspeth,1,40.723158,-73.912637
+Tarpon Springs,1,28.148082950000003,-82.74380159717906
+Westdundee,1,0,0
+Hyde Park,1,51.5074889,-0.16223668308067218
+Leesburg,1,28.810823,-81.8778582
+East Berlin,1,44.0750072,-64.561844
+Brookings,1,44.311461,-96.79844
+Depoe Bay,1,44.8104233,-124.0620096
+Sherman Oaks,1,34.1508718,-118.4489865
+Shippensburg,1,40.0507198,-77.5205485
+Hardinsburg,1,37.7800592,-86.4605337
+Fairhope,1,30.4975205,-87.8871010697134
+Seminary,1,36.8106501,-82.8334954
+Munhall,1,40.3922914,-79.9000499
+Berwyn,1,41.8505874,-87.7936685
+Papillion,1,41.1544433,-96.0422378
+Rancho Santa Margarita,1,33.6408845,-117.6029341
+Escondido,1,33.1216751,-117.0814849
+Rock City,1,37.8502356,-121.9340704
+Ferryville,1,43.3505324,-91.1020739
+Howard Beach,1,40.6578815,-73.8362459
+Seaford,1,38.6413452,-75.6114584
+Walnut,1,33.7085883,-117.7926096
+Newport,1,41.4899827,-71.3137707
+Chesaning,1,44.5078909,-84.7721582
+Gillette,1,44.290635,-105.501876
+Cameron,1,4.6125522,13.1535811
+Overland Park,1,38.9742502,-94.6851702
+Madawaska,1,47.3401135,-68.3301840073355
+Russellville,1,35.2784173,-93.1337856
+Aline,1,36.5097552,-98.4489659
+Downey,1,33.942215,-118.1235646
+Lehi,1,48.1113387,-1.6800198
+Whitefield,1,44.3730577,-71.6118577
+Thomasville,1,35.8831786,-80.081817
+Beavercreek,1,39.7092262,-84.0632685
+Kspt,1,48.304369,-116.5432482
+Paoli,1,40.040739,-75.49284449481362
+Pahrump,1,36.2083012,-115.9839128
+Heath,1,31.3607243,-86.4696811
+Blue Ridge,1,34.863972,-84.324087
+Winlock,1,46.4924025,-122.9388355
+Mt Airy,1,40.0640001,-75.1865661
+Wynnewood,1,40.0028514,-75.2707469
+Lincoln City,1,44.9617922,-124.0159522
+Manitou,1,49.2398981,-98.5388162
+Petoskey,1,45.373343,-84.95533
+Santee,1,32.8383828,-116.9739167
+Miami Springs,1,25.8223198,-80.289495
+New Bern,1,35.1084931,-77.0441143
+Mcdonough,1,40.4376858,-90.6780272
+Reedley,1,36.5963395,-119.4504029
+Palmerton,1,40.8014826,-75.6101868
+Gibsonia,1,40.6300671,-79.9695004
+Queen Creek,1,33.2483858,-111.6341585
+Blackfoot,1,43.190039,-112.348357
+Broomall,1,39.9815001,-75.3565797
+Ormond Beach,1,29.2854132,-81.0557921
+Laguna Hills,1,33.5948758,-117.6882067
+Lake Gogebic,1,46.576614,-89.6112669
+Fall River,1,41.7010642,-71.1546367
+Austell,1,33.8126059,-84.6343783
+Beaver Falls,1,40.7520097,-80.3192295
+Sylvester,1,31.5307349,-83.8354542
+Rusk,1,32.051377,-94.7906553
+Solsberry,1,39.0833795,-86.7561147
+Rural Hall,1,36.2404158,-80.2933838
+Media,1,40.7750395,-90.8320824
+Searsboro,1,41.5805534,-92.7035243
+Kodak,1,35.9745323,-83.6268396
+Clawson,1,42.5333682,-83.1463166
+Irwin,1,-29.34027475,115.05416990447068
+Stanwood,1,41.8927277,-91.1503244
+North Bend,1,47.4959464,-121.7851542
+Ambler,1,46.395412,11.146774
+Bradford,1,53.7944229,-1.7519186
+Wheatfield,1,43.091004600000005,-78.88294651188136
+Kentwood,1,42.8694731,-85.6447492
+Selden,1,40.871537000000004,-73.04840392530011
+Visalia,1,36.3302284,-119.2920585
+Monee,1,41.420034,-87.7417115
+Sun City Center,1,27.718086,-82.351759
+Hobbs,1,32.707667,-103.1311314
+Bells,1,35.7111847,-89.087565
+Nb,1,46.500283,-66.750183
+Stanford,1,37.426540700000004,-122.17029258409187
+Loxahatchee,1,26.973524,-80.131002
+Wellington,1,-41.2887953,174.7772114
+Bartlett,1,41.9908485,-88.1850028
+Hilltown,1,54.1949248,-6.1445325
+Tarzana,1,34.1688075,-118.5361198
+Nanuet,1,41.0903087,-74.0148524
+Plantation,1,26.1275862,-80.2331036
+Fort Dix,1,40.0301105,-74.6201691
+Joppa,1,32.0443395,34.7509908
+Campobello,1,8.0959233,-75.6697915
+West Jordan,1,40.6096698,-111.9391031
+Keller,1,32.9299655,-97.2271249
+Weirton,1,40.4189566,-80.5895167
+Petrolia,1,34.0131515,-98.232267
+Whitestone,1,50.73837845,-3.6009702380632556
+Flagstaff,1,35.1987522,-111.6518229
+Festus,1,38.2207112,-90.3959504
